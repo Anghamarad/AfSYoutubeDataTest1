@@ -1,0 +1,1276 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "XZ0zqwaWwTE3L5DwMqmyQZRqP_4",
+  "nextPageToken": "EAAajQFQVDpDQmtpRUVNeVJUZzFOalZCUVVaQk5qQXdNVGNvQVVqTGlkYW5rcWVHQTFBQldrUWlRMmxLVVZSRVpIQlZhMlJtWlZadk1WVjZUa1ZoZWtwUVZHczViV0o2UWxOWGEwWjBZMFpGZVU5VlZuQlpWM2cyUldkelNYSlFXRVJ6WjFsUkxVbEhjMVJuSWc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MUaWRtPBpR4ED3F4twYDoxlVlcI",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-06-22T15:37:23Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Brazil, COVID and the rise of anti-science sentiment",
+        "description": "Natalia Pasternak, director of Instituto Questão de Ciência (Question of Science Institute) — Brazil’s first institute to promote skepticism and rational thinking —  and Guatemalan attorney Pablo Orozco discuss Brazil's response to the COVID-19 pandemic and the rise of anti-science sentiment in the country.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i8arBh9Mt54"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "i8arBh9Mt54",
+        "videoPublishedAt": "2020-06-22T15:46:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-i-yKoYaqp5HbPmy9Szq_lLBueo",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-06-23T20:17:04Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Navigating the new USDA rule on genetic engineering",
+        "description": "Biotech policy expert Greg Jaffe explains the new US Department of Agriculture rule on genetic engineering and answers questions about the topic in this AfS Live! presentation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "emAVMey8z4k"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "emAVMey8z4k",
+        "videoPublishedAt": "2020-06-23T20:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1sInvt4ntTdNI9YjBiMNLUUM-mE",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-06-26T08:25:11Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Introducing: Alliance for Science LIVE!",
+        "description": "AfS director Sarah Evanega introduces our new series of provocative and well-informed live webinars. See what's on tap at https://allianceforscience.cornell.edu/alliance-for-science-live/events/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fUaAxNLTVj4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "fUaAxNLTVj4",
+        "videoPublishedAt": "2020-06-10T11:31:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JMQ7EqffB5wPQ23sxk0EzUUCKrY",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-06-26T08:25:27Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Africa Reports on COVID, Conspiracies and Crops",
+        "description": "In this live webinar recorded on June 15, 2020, three Alliance for Science correspondents — Nkechi Isaac, Joseph Opoku Gakpo and Verenardo Meeme — discussed the current situation in Nigeria, Ghana and Kenya, respectively, in response to COVID-19, associated conspiracy theories and food security. Joan Conrow, AfS managing editor, served as moderator. See the lineup of upcoming webinars at https://allianceforscience.cornell.edu/alliance-for-science-live/events/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "43nKz0RQ4pE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "43nKz0RQ4pE",
+        "videoPublishedAt": "2020-06-15T16:17:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2ipGdqpCWDL_zGd5wYaLdXkUkns",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-06-26T08:29:27Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Top 5 Most Promising COVID-19 Vaccine Projects",
+        "description": "More than 100 vaccine efforts are currently underway in the global push to stop the COVID-19 pandemic, according to the World Health Organization. Which are most likely to work? And how long will it take? Science writer Mark Lynas and AfS Fellow Modesta Nnedinso Abugu take a look at the five most promising candidates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rOlNMWBVC54"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "rOlNMWBVC54",
+        "videoPublishedAt": "2020-06-26T08:49:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1KHe9YQBkb4OKJ_uzBshZt6IDns",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-06-30T16:49:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Conspiracy Theories in the Time of COVID",
+        "description": "Bright Simons, founder and president of mPedigree; Whitney Phillips, Syracuse University; Stephan Lewandowsky, University of Bristol; Joanne Miller, University of Delaware; John Cook, George Mason University and moderator Mark Lynas discuss the nature and appeal of conspiracy theories and how to deal with them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-1X3X6Rturs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "-1X3X6Rturs",
+        "videoPublishedAt": "2020-06-30T17:41:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2wf_GNh55f-cR_Cfm5DA0e6tqGY",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-08-04T09:50:03Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Africa's women farmers: Innovating in the time of COVID",
+        "description": "Four African women farmers discuss the innovative measures they are using to get their crops to the public despite Africa's lockdowns and travel restrictions during the COVID pandemic.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "18LLTzy-kgg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "18LLTzy-kgg",
+        "videoPublishedAt": "2020-08-04T09:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_tSteE8JU3x6Fe0hqwB2B5UFSFA",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-08-05T09:31:52Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Mujeres en ciencia",
+        "description": "En esta sesión vamos a conversar con mujeres empoderadas en la ciencia que compartirán experiencias ejemplares en la constante búsqueda de la equidad de género en el sector.\n\nSol Guerrero Ortiz: Es Bióloga con una maestría en Conservación y Manejo de Vida Silvestre. Actualmente trabaja con cooperación internacional en temas de medio ambiente con énfasis en integración de la conservación y el uso sostenible de biodiversidad. Es parte del cohorte 2016 del Programa de Liderazgo Global de la Alianza para la Ciencia de Cornell.\n\nSusana Arrechea: Ingeniera química, maestra y doctora en nanotecnología, actualmente trabaja como investigadora y como profesora. Arrechea ha desarrollado proyectos de nanotecnología, emprendimiento e innovación en Guatemala e internacionalmente. Es una científica reconocida con varios premios como el OWSD-Elsevier para mujeres investigadoras.\n\nDalia Marcela Lewi: Ingeniera Agrónoma con orientación Fitotecnia (UBA) y Doctora en Ciencias Biológicas de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. Actualmente (desde 12 de mayo de 2020) es la Directora de Biotecnología del Ministerio de Agricultura, Ganadería y Pesca de la Nación Argentina. Lideró el Grupo de Transformación Genética Vegetal en el Instituto de Genética de INTA hasta hacerse cargo de la Dirección en el Ministerio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "akoPAF7AFXI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "akoPAF7AFXI",
+        "videoPublishedAt": "2020-08-05T09:29:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYotw6RVzNjAI6iKZYE4swoCA7U",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-08-11T12:49:42Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Hydroponics – Farming Without Soil",
+        "description": "Prof. Trevor Charles, chief science officer of Metagenom Bio and director of Waterloo Centre for Microbial Research, discusses what he sees as the future of agriculture — hydroponics. As the global population increases, the availability of land remains static, yet food production must continue to expand. Are vertical farms and other hydroponic production systems sustainable and cost-effective? Can we grow more food without soil? Dr. Charles addresses these questions and more.\n\n#afslive #allianceforscience #hydroponics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d5zs00jYrPM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "d5zs00jYrPM",
+        "videoPublishedAt": "2020-08-11T11:34:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nWSWKhhsozD5GCgDolCOm6hHbv8",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-01T12:39:12Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: COVID-19 in Africa: Myths, truth and re-opening",
+        "description": "Dr. Mercy Korir, a medical journalist with KTN News in Kenya, teams up with Dr. Wilson Winstons Muhwezi, associate professor of behavioral sciences and mental health at Makerere University, to discuss the myths and truth surrounding COVID-19 in Africa. They also offer guidance to governments as countries start to ease lockdowns. Christine Elong, development communications officer at the National Agricultural Research Organization (NARO) in Uganda, moderates the talk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hQU_ZU5hKnk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hQU_ZU5hKnk",
+        "videoPublishedAt": "2020-09-01T13:29:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n8Zd1N5OvIH_HZwSoXSwqUOaISE",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-04T12:06:32Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live || Africa: Agriculture and food security in the COVID-19 era",
+        "description": "Alliance for Science Global Leadership Fellows Evans Okomeng (Ghana) and Alfred Namaasa (Uganda) discuss how COVID-19 is impacting agriculture and food security in Africa. Can small-scale agricultural systems become more resilient under health pandemics? What lessons can be learned?\n\nPlease note that technical difficulties meant that Veronica Mwaba (Zambia) was unfortunately unable to attend as planned and both Evans and Alfred had video connection problems.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "55tX3amhRgw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "55tX3amhRgw",
+        "videoPublishedAt": "2020-09-04T12:04:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aVdsf_h1CAPcsL6JhWoJObFYbzM",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-11T13:06:44Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Burkina Faso and the end of BT cotton (en Français)",
+        "description": "Eliane Bayala, a 2019 AfS Global Leadership Fellow and assistant coordinator at the Open Forum on Agricultural Biotechnology (OFAB) Burkina Faso, teams up with  Dr. Edgar Traore of OFAB Burkina Faso and Wiledio Naboho, a famer in Burkina Faso, to give an update on the country's agriculture sector two years after banning BT cotton. This session is in French.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZFLFxjaNDUg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ZFLFxjaNDUg",
+        "videoPublishedAt": "2020-09-11T13:21:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1F60ymFifq22J_mr8t6UCK1JFt4",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-22T09:31:41Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: What influences technology adoption in Africa?",
+        "description": "The African Agricultural Technology Foundation (AATF), an Alliance for Science partner, leads this discussion on technology adoption in Africa. Dr. Munyaradzi Jonga, AATF’s seed production manager, and Dr. Daniel Kyallo Willy, a program officer with AATF, share evidence about the speed at which African farmers are taking up new improved crop varieties and discuss concrete, actionable steps on how to improve technology adoption in Africa. Nancy Muchiri, AATF’s head of communications and partnerships, moderates the discussion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nm5FPKYlTWE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "nm5FPKYlTWE",
+        "videoPublishedAt": "2020-09-22T09:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OCJGg0_h8DfQo7K1-DdD_WnyXbc",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-24T13:35:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | COVID vaccine: What’s at stake for Africa?",
+        "description": "Prof. Shabir A. Madhi, professor of vaccinology at the University of the Witwatersrand, Johannesburg, South Africa, and Dr. Michael Owusu, a clinical microbiologist and a lecturer at Kwame Nkrumah University of Science and Technology, Ghana, discuss Africa’s critical role in the global efforts to develop a vaccine for COVID-19. \n\nTopics include the current status and safety of clinical trials of vaccines; how vaccines are developed and distributed; the policy and regulatory requirements for development,  registration, access and use of vaccines; the safety and efficacy of vaccines; the role of public sentiment in accepting or rejecting a COVID vaccine; and political will and its impact on vaccine access on the continent.\n\nDr. Mercy Korir, a health journalist and editor with The Standard Group in Kenya, moderates the discussion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jxAX6JEwnbA"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "jxAX6JEwnbA",
+        "videoPublishedAt": "2020-09-24T13:52:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p728lYIrPuNSFwJpEOzp9O1QTfU",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-10-02T11:44:52Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | American chestnut: Saving an iconic tree",
+        "description": "Dr. William (Bill) Powell, director of the American Chestnut Research & Restoration Project at SUNY College of Environmental Science and Forestry, and Dr. Jared Westbrook, director of science at the American Chestnut Foundation, discuss the campaign to win regulatory approval for the blight-tolerant chestnut tree as the first genetically modified tree used in environmental conservation use in the US. The talk is be moderated by Sara Fitzsimmons, director of restoration at the American Chestnut Foundation.\n\nIf you’d like to support the GM chestnut, the USDA is accepting public comments through October 19, 2020 at https://www.federalregister.gov/documents/2020/08/19/2020-18135/state-university-of-new-york-college-of-environmental-science-and-forestry-petition-for#open-comment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOq-pdlRrCQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "BOq-pdlRrCQ",
+        "videoPublishedAt": "2020-10-02T12:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rFrM4HAocdnFpBxDrWoVoiUZ7jM",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-10-02T15:04:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | Agroecology: What is it, anyway?",
+        "description": "The term agroecology is being used increasingly often, but what exactly does it mean? Is it a science, a system, a practice, a movement, an ideology or a combination of the above?  Our panelists will share their definitions of the term and discuss where agroecology can best be implemented. What are some of the opportunities and constraints in its adoption? What is driving the agroecology movement? What does it have in common with other systems of agriculture? And what role can it play in making agriculture more sustainable?\n\nThe panelists are: Pamela Ronald, professor in the Genome Center and the Department of Plant Pathology, and founding director of the Institute for Food and Agricultural Literacy, at the University of California, Davis; Frédéric Baudron, senior scientist and systems agronomist at CIMMYT; and Nassib Mugwanya, Ugandan agricultural communications specialist and PhD candidate at North Carolina State University. Joan Conrow, Alliance for Science managing editor, will moderate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2_3iL8x64eM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "2_3iL8x64eM",
+        "videoPublishedAt": "2020-10-02T15:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q6YGx_YaJFGXEmafLxLLeb9jVKE",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:25:56Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Bt brinjal (eggplant) – A GMO first in South Asia",
+        "description": "In the inaugural session of our “GMO Firsts” series, Tony Shelton of Cornell University and Arif Hossain of Farming Future Bangladesh takes us down memory lane to 2013, when Bangladesh commercialized Bt brinjal (eggplant), South Asia’s first GMO food crop. They share how and why the idea of a transgenic brinjal was conceived, discuss the institutions and researchers behind its creation, explain the long process that led finally to deregulation and share the excitement of the big day when Bt brinjal was planted in a farmer’s field. The broadcast wraps up with some figures on how Bt brinjal has changed farmers’ livelihoods and health. Did you know that Bt brinjal brought about a 77 percent reduction in pesticide use? Register and listen to this amazing “GMO Firsts” story.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Df1uMTkedVM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Df1uMTkedVM",
+        "videoPublishedAt": "2020-10-21T19:17:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7YWQa1jwFG42K0IAQ1mHssTsPD8",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:32:38Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Hawaii papaya - First public sector GMO crop",
+        "description": "Using the tools of biotechnology, Cornell University researcher Dennis Gonsalves, now retired, bred a papaya resistant to the destructive ringspot virus. It was the first genetically modified commercial crop developed by a public sector scientist, and it saved Hawaii’s papaya farmers from ruin. In this program, Alliance for Science Global Leadership Fellows discuss the GM papaya from three different perspectives. In this broadcast, Joni Kamia talks about the modified papaya's success on her family’s farm on Oahu, Luis Ventura explores its potential in Mexico and Guido Nunez-Mujica will shares its tragic tale in Venezuela.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0MjWemqtITQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "0MjWemqtITQ",
+        "videoPublishedAt": "2020-11-05T13:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EvWD8rOY9G4d7KTrEpbPZ9btp6A",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-10-27T20:06:06Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: AquAdvantage salmon: First GMO food animal",
+        "description": "In the third of our “GMO firsts” series we discuss the AquAdvantage salmon — the world’s first and only genetically modified animal approved for food. The AquAdvantage salmon grows to market weight in about half the time of a typical salmon, improving its sustainability. Join AquaBounty CEO Sylvia Wulf and Greg Jaffe, associate director of policy and regulatory affairs for the Cornell Alliance for Science, as they discuss the development of the salmon and its long regulatory journey to earn approval from the United States Food and Drug Administration.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DIPfpsg_kt8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "DIPfpsg_kt8",
+        "videoPublishedAt": "2020-10-27T20:06:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6-hfD-qfxYKKeAJ_BPkrCDuVKcM",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-10-29T19:07:54Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Bt cowpea – A GMO first in Africa",
+        "description": "In the fourth of our “GMO firsts” series we discuss insect-resistant (Bt) cowpea — the first genetically modified (GM) food crop unique to Africa and the first GM food crop to be commercially approved in Nigeria. This crop, which is a protein-rich staple food for millions, represents a major food security milestone for Nigeria and West Africa.  In this broadcast, Nkechi Isaac, a Nigerian journalist and Alliance for Science correspondent,  Dr. Rose Gidado, assistant director of the Agricultural Biotechnology Department at the National Biotechnology Development Agency (NABDA) and Nigerian Country Coordinator for the Open Forum on Agricultural Biotechnology (OFAB), and Prof. Mohammad Ishiyaku, principal investigator of the cowpea project at the Institute for Agricultural Research (IAR) at Ahmadu Bello University in Zaria, discuss the nutritional importance of cowpea as a “poor man’s meat,” the effectiveness of Bt cowpea in reducing pesticide use and the status of getting improved seeds out to Nigeria’s farmers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KKxZnlMLcWE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "KKxZnlMLcWE",
+        "videoPublishedAt": "2020-10-29T19:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G7Fyt-bP0fnaHltA5ZIQpYhSWjE",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-12-17T21:28:31Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: OGMs en Latino América: Presente, Pasado y Futuro",
+        "description": "Latino América es una región rica en biodiversidad y contrastes. Países con el más alto nivel de producción de OGMs en el mundo coexisten con países que han prohibido los cultivos genéticamente modificados a nivel Constitucional. Se parte de esta charla con cuatro científicos latinoamericanos que abordarán el pasado, el presente y el futuro de los OGMs en sus regiones. Los panelistas Lucia de Souza de Brasil, Daniel Domínguez de México, Sherly Montaguth de Colombia y Marcelo Castro de Costa Rica también hablarán sobre los desafíos que enfrentan los científicos latinoamericanos en la búsqueda de incrementar la adopción de la innovación en los campos agrícolas de la región. Luis Ventura de México y Global Leadership Fellow de la Alliance for Science, moderará la plática.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aLWh8D6XjZk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "aLWh8D6XjZk",
+        "videoPublishedAt": "2020-12-17T21:44:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T068DUOKmrYOxH7-y7W-_-4Ygj0",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-01-13T17:59:56Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live - Colin Christensen, One Acre Fund, Mohammed Arif, Farming Future Bangladesh",
+        "description": "What challenges in global food systems, agriculture and the environment will the incoming Biden administration inherit? What opportunities for impact can be utilized across different sociocultural contexts and geographies? Will the richest country in the world be able to realize an inclusive development paradigm that reduces poverty for men, women and children from the Sahel through South Asia to Central America? Will small holder farmers be given the tools they need to sustainably manage their land while producing enough to make a profit?  According to the World Health Organization, global hunger was on the rise prior to the emergence of COVID-19. Almost 700 million people went hungry in 2019, and the pandemic is estimated to push an additional 130 million people into food security. Three billion people currently cannot afford a healthy diet, and in sub-Saharan Africa and southern Asia, this is true for 57 percent of the population.  On the production side, the Food and Agriculture Organization found that the COVID-19 pandemic is substantially affecting market access for smallholder producers. Amidst these difficulties, farmers can expect to be continually challenged by climate change, depleted soils, stiff competition in markets, and emerging threats from agricultural pests and diseases. Join Colin Christensen and Arif Hossain as they discuss these compelling issues.\n\n Colin Christensen is the global policy director of the One Acre Fund, a Washington, DC-based nonprofit that provides financing and training to 1 million smallholder farmers in six countries in Eastern and Southern Africa. \n\nArif Hossain is the executive director of Farming Future Bangladesh, a communications and community engagement initiative that works to improve access to agricultural innovations to ensure sustainable food security. He holds a post-graduate degree in international relations from the University of Dhaka and is a 2015 Alliance for Science Global Leadership Fellow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8KrNx6W3-ME"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "8KrNx6W3-ME",
+        "videoPublishedAt": "2021-01-13T18:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-TBd6uH6pqajiWAG-BSJc0tu958",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-01-27T20:03:37Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Cassava: Food security and household incomes",
+        "description": "In late 2020, Nigeria released five new cassava varieties in Nigeria. Their names indicate their attributes for the farmer, cook or consumer: Game-Changer, Hope, Obasanjo-2, Baba-70 and Poundable.  Join NextGen project leader Chiedozie Egesi and International Institute of Tropical Agriculture plant breeders Ismail Rabbi and Siraj Kayondo as they talk about these new varieties of cassava and their potential to improve food security and household incomes.  Tessy Madu, a research scientist at the National Root Crops Research Institute, will address the gender-specific benefits of these new varieties.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6dvVl7s299c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "6dvVl7s299c",
+        "videoPublishedAt": "2021-01-27T20:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eQxihRoTTY4unf5jCpjNUkDq6XI",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-02-04T19:38:59Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Gene editing - Developments in Latin America",
+        "description": "Latin America is a vast region with tremendous biodiversity as well as a growing population that needs to be fed. Yet 25 years after genetic engineering was introduced, the debate continues, with some LATAM countries imposing bans and restrictions. Now scientific innovation is taking the region on a different path. In a move to help Latin America realize its potential as a world power in food production,  farmers are partnering with scientists to create new crop varieties using gene editing techniques such as CRISPR-CAS 9.\n\nIn this webinar, we will have a conversation with LATAM scientists who currently are researching these new crop varieties in their laboratories. We will also discuss how existing genome editing regulation in the region will affect how quickly these crops get into the fields.  Join this conversation to learn what genome editing is, which crops are being gene-edited, why LATAM is investing in new breeding techniques and who is doing the research.\n\nPanelists include: Claudia Stange Klein, a professor in the Department of Biology of the Faculty of Sciences of the University of Chile whose research involves the use of biotechnology to improve fruit and vegetable crops; Alejandro Hernández, a research professor in genome editing and bioinformatics at TEC University in Costa Rica and regional director of biotechnology CA&C for CropLife who previously had position in government; and Paul Chavarriaga, leader of CIAT’s Genetic Transformation and Genome Edition Platform, the first to produce genetically edited rice and cassava (and soon beans) in Latin America,\n\nModerator: Luis Ventura, a biologist with expertise in biosafety and 2016 Cornell Alliance for Science Global Leadership Fellow representing Mexico.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A6gFtS8VMEU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "A6gFtS8VMEU",
+        "videoPublishedAt": "2021-02-04T20:36:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YvnGEEKlWRV94Yl5B9a7XzgB81Q",
+      "id": "UEw3aVJHX3laNVMzRGsyT05PZm8wUlpBbXBRMjlFaWFsei5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-03-16T16:25:49Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa's lagging Covid 19 rollout as deaths spike Dr  Michael Owusu",
+        "description": "Joseph Opoku speaks with Dr Michael Owusu, clinical microbiologist and  lecturer at the Department of Medical Diagnostics, Kwame Nkrumah University of Science and Technology, Ghana\n\nhttps://allianceforscience.cornell.edu/alliance-for-science-live/event/covid-vaccine-whats-at-stake-for-africa/\n\nAs wealthy nations hoard COVID-19 vaccine supplies, Africa is lagging in the global effort to immunize people against the disease even as its fatality numbers spike.\n\nThough Africa has 17 percent of the world’s population, it accounts for just 0.2 percent of the 209 million doses of COVID-19 vaccines administered to people across the globe. Meanwhile, the continent is experiencing a sharp rise in COVID infections and fatalities.\n\nAs of Feb. 22, some 2.66 million doses had been administered to people living in at least seven of Africa’s 55 countries, according to data from Bloomberg that the Alliance for Science analyzed.\n\nBy comparison, the United States had administered 64.28 million doses by that same date and the United Kingdom had given 18.34 million doses. Israel has administered 7.4 million doses, China 40.5 million doses and Russia 2.2 million doses, according to the Bloomberg tracker.\n\nSouth Africa President Cyril Ramaphosa, who is also chairman of the African Union, recently called on wealthy nations to make more COVID-19 vaccines available to the rest of the world. He criticized them for hoarding vaccine supplies.\n\n“The rich countries of the world went out and acquired large doses. Some even acquired up to four times what their population needs … to the exclusion of other countries,” Ramaphosa observed during a virtual meeting of the World Economic Forum.\n\nThe European Union has ordered 525 million more full vaccinations than will be needed to vaccinate all its population, said Robin Cohen, a professor of development studies at the University of Oxford, after analyzing data from the Duke Health Innovation Center. The UK has ordered 65 million surplus full vaccinations, while Canada has ordered 156 million excess full vaccinations. Other wealthy nations have similarly ordered doses far in excess of what they need.\n\nThe African Union recently announced it has secured  400 million doses of coronavirus vaccines for the continent under COVAX, a World Health Organization initiative, bringing the total number of COVID-19 doses secured for Africa to 1.27 billion doses. However, it could take years before all those doses become available and at least 1.5 billion doses will be needed to vaccinate just 60 percent of the continent’s population.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "PL7iRG_yZ5S3Dk2ONOfo0RZAmpQ29Eialz",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKYnrUG6i3c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "sKYnrUG6i3c",
+        "videoPublishedAt": "2021-03-16T16:25:50Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 47,
+    "resultsPerPage": 25
+  }
+}
