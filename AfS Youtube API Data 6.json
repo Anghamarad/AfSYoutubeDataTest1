@@ -1,0 +1,57 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "S1O32WZkXkBbiBeOvQuYFfcbARE",
+  "prevPageToken": "EAEac1BUOkNQb0JJaEJDTmpKRVF6SkdNRFUyTVRnMk5FWXhLQUZJZ0tqbm1aaTdpUU5RQUZvd0lrTm9hRlpXVjNCYVZGUnNabFZxV2s5U1YwWlVaR3RXZWxWVlNrTmtibEpRVW01alUwSm5hbEZ2V2s4MVFtY2k",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FZx2FeYnI1y2Cbaktay8-Eg0OCM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkNYN0FxQk9KUzg0",
+      "snippet": {
+        "publishedAt": "2014-08-18T14:53:00Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "The Story of Rainbow Papaya - Why Public Sector Biotechnology Research Matters",
+        "description": "Dennis Gonsalves is a former Liberty Hyde Bailey Professor of Plant Pathology at Cornell University.  He speaks about the story of Rainbow Papaya as an example of how public sector biotechnology research can be beneficial to farmers and consumers. #science #gmos #papaya #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CX7AqBOJS84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CX7AqBOJS84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CX7AqBOJS84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CX7AqBOJS84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 250,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CX7AqBOJS84"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "CX7AqBOJS84",
+        "videoPublishedAt": "2014-08-18T14:53:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 251,
+    "resultsPerPage": 50
+  }
+}
