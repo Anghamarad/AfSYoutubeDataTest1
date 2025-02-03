@@ -1,0 +1,2527 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "L-JFxeeCCvIxU6PEYjAO9-qGOno",
+  "nextPageToken": "EAAaclBUOkNHUWlFRFF5TTBFMlFUSXlORVkyUTBRNVJFSW9BVWlBcU9lWm1MdUpBMUFCV2pBaVEyaG9WbFpYY0ZwVVZHeG1WV3BhVDFKWFJsUmthMVo2VlZWS1EyUnVVbEJTYm1OVFFtZHFVVzlhVHpWQ1p5SQ",
+  "prevPageToken": "EAEaclBUOkNESWlFRUUxTWpNd01VUkNNakpCTlRVNU1ESW9BVWlBcU9lWm1MdUpBMUFBV2pBaVEyaG9WbFpYY0ZwVVZHeG1WV3BhVDFKWFJsUmthMVo2VlZWS1EyUnVVbEJTYm1OVFFtZHFVVzlhVHpWQ1p5SQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fi4uPCudIQePs1NHPCbT7NC1hX0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Ljg2cUMzRTJsSUJJ",
+      "snippet": {
+        "publishedAt": "2022-02-01T20:26:20Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "The future faces of gene editing in agriculture",
+        "description": "Global climate change, rapid population growth and shifting diets are creating intense pressures on agricultural systems. The recent advent of CRISPR/Cas as an additional tool for gene editing has spurred countless innovations in crops and livestock. From improved yields to enhanced drought tolerance, gene editing has enabled a range of promising improvements in a vast array of organisms. In this AfS Live webinar, three young scientists will discuss their work in gene editing for agriculture, their hopes for the technology and the role they seek to play in shepherding the next generation of agricultural biotechnology.\n\nPanelists include Nicholas Karavolias, a Ph.D. candidate at the Innovative Genomics Institute, home of CRISPR/Cas technology, at the University of California, Berkeley. His work seeks to provide an overview of how gene editing has been applied in agriculture for climate adaptation. He uses CRISPR/Cas9 in rice to generate varieties that are more drought-tolerant, and in cassava to improve nutritional attributes. Maci Mueller is a Ph.D. candidate at the University of California, Davis. Her work explores the relative advantages of gene editing and conventional breeding to drive the genetic improvement of cattle. Navneet Kaur is a Post-Doctoral Research Scientist at Rothamsted Research and a 2019 Alliance for Science Global Leadership Fellow. Her expertise is in the area of plant molecular biology and metabolic engineering, specifically focused on provitamin A biofortification of banana.\n\nSarah Evanega, director of the Alliance for Science, will moderate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86qC3E2lIBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86qC3E2lIBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86qC3E2lIBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/86qC3E2lIBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/86qC3E2lIBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "86qC3E2lIBI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "86qC3E2lIBI",
+        "videoPublishedAt": "2022-02-01T20:26:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mOGReLfMmGInFI2cfBoRPfnjdxE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmtFN1BlUlJfbmNv",
+      "snippet": {
+        "publishedAt": "2021-11-23T17:46:02Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "GMO cowpeas improve affordability of Nigerian staple food",
+        "description": "The price of cowpeas, a protein-rich food staple for millions, is rising steady in Nigeria due to poor harvests. Now a GMO cowpea is delivering higher yields with less pesticide use, which can help to lower prices for consumers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kE7PeRR_nco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kE7PeRR_nco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kE7PeRR_nco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kE7PeRR_nco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kE7PeRR_nco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kE7PeRR_nco"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "kE7PeRR_nco",
+        "videoPublishedAt": "2021-11-23T17:46:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SooP1EEtN2PD_Zf5j87XI2m2LPg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Li1OV1FLcGZrTVdJ",
+      "snippet": {
+        "publishedAt": "2021-11-10T16:50:39Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nigeria urges Africa to follow its lead in adopting GMO cowpea",
+        "description": "Nigerian scientists who developed a genetically modified cowpea resistant to the destructive pod borer pest (PBR cowpea) are urging other African countries to adopt the crop to help their farmers reduce pesticide use and increase yields of this important high-protein food.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-NWQKpfkMWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-NWQKpfkMWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NWQKpfkMWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-NWQKpfkMWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-NWQKpfkMWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-NWQKpfkMWI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "-NWQKpfkMWI",
+        "videoPublishedAt": "2021-11-10T16:50:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rlPzMacFOcUNJJC0s1AUs0mQ2tI",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Li1GaS1TaGpraEVv",
+      "snippet": {
+        "publishedAt": "2021-11-10T16:18:05Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nigeria farmers welcome GMO cowpea",
+        "description": "Farmers in Nigeria have enthusiastically adopted a genetically modified cowpea that was developed by Nigerian scientists to resist the destructive pod borer pest. Known as GM cowpea, PBR cowpea and Bt cowpea, this crop cuts pesticide use by 80% and helps farmers achieve the higher yields that contribute to food security.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Fi-ShjkhEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Fi-ShjkhEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Fi-ShjkhEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Fi-ShjkhEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Fi-ShjkhEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Fi-ShjkhEo"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "-Fi-ShjkhEo",
+        "videoPublishedAt": "2021-11-10T16:18:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TFX5xmNCzsCOGFtlihhmNwe1lBM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmlxMllpQk5FbjNB",
+      "snippet": {
+        "publishedAt": "2021-10-26T17:39:45Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Mark Lynas discusses climate change research on BBC World News",
+        "description": "In this Oct. 20, 2021 BBC World News report, lead author Mark Lynas discusses an Alliance for Science research paper that found 99.9% scientific consensus in the peer reviewed literature that humans are the cause of global warming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iq2YiBNEn3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iq2YiBNEn3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iq2YiBNEn3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iq2YiBNEn3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iq2YiBNEn3A"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "iq2YiBNEn3A",
+        "videoPublishedAt": "2021-10-26T17:39:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pd6r906I8YKOPsEkP7dUVxZLJXA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmU4aDRGNDY3dmdz",
+      "snippet": {
+        "publishedAt": "2021-10-20T20:51:05Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Reconciling Agroecology and Biotechnology",
+        "description": "The US Department of State hosted this webinar, Reconciling Agroecology and Biotechnology, as a side event to the 2021 World Food Prize. \n\n\nAs the world looks to promote sustainable agriculture and fight food insecurity, agroecology (often conflated with “organic farming” and “regenerative farming”) and agricultural biotechnology (a.k.a. \"GMOs\") continue to be two central topics in developing sustainably agricultural systems.  Unfortunately, sentiments that are principally driven by political pressures give the false impression that agroecology and biotechnology are incompatible with each. This side-event will seek to have an honest and science-based discussion to reconcile how the two approaches can work together for sustainable agriculture and help small- and medium-sized enterprises and farmers.   \nMatt Murray, U.S. Department of State Acting Assistant Secretary (host) \nSarah Evanega, Cornell University Alliance for Science (moderator) \nBeth Bechdol, DDG, Food and Agricultural Organization of the United Nations (speaker) \nNassib Mugwanya, North Carolina State University (speaker) \nDr. Walter Suza, Iowa State University (speaker)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e8h4F467vgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e8h4F467vgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e8h4F467vgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e8h4F467vgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e8h4F467vgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e8h4F467vgs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "e8h4F467vgs",
+        "videoPublishedAt": "2021-10-20T20:51:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RX075khQbRQgh_pbLNtjeiAeXwM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnRHQVhsWUpQa3hZ",
+      "snippet": {
+        "publishedAt": "2021-10-04T15:12:59Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Consequences of restricting GM crops in Mexico",
+        "description": "Mexican farmers, scientists and consumers are facing the uncertain implications of a new national policy banning the import and cultivation of genetically modified (GM) maize. Though Mexico’s President framed his decree as supporting sustainable agriculture and improved quality of life for farmers, it’s becoming apparent that banning scientific innovation from the country’s fields will have significant consequences on productivity, food prices and trade policies. In this AfS Live webinar, fifth-generation Mexican farmer Gina Gutierrez and Mexican economist Fernando Cruz Morales will discuss the decree and those most likely to be impacted if it is implemented as written. The Gutierrez family farm cultivates 40 hectares of crops to produce silage for its 420 milking cows. Gina Gutierrez started the La Vida Lactea dairy advocacy group on social media, holds a master’s degree in corporate law and is the 2018 winner of the Global Farmer Network’s Kleckner Award. Morales has more than 15 years of experience in the public finance and policy sectors, developing policies related to the agri-food sector, environment and energy. In the private sector he has consulted with firms focused on the development of market research, new business development and negotiations with senior managers. He holds master’s degrees in public administration as well as economics and public policy. In recent years he has perfected his management capacity at the Pan American Institute of Senior Business Management (IPADE) with a focus on private equity and agribusiness.  Luis Ventura, a scientist and the Alliance’s Mexico-based contributor, will moderate the session.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tGAXlYJPkxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tGAXlYJPkxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tGAXlYJPkxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tGAXlYJPkxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tGAXlYJPkxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tGAXlYJPkxY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "tGAXlYJPkxY",
+        "videoPublishedAt": "2021-10-04T15:12:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vIYwPMoo65JT9xagkqCC06PcDcE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnFyajF5M08zQW1J",
+      "snippet": {
+        "publishedAt": "2021-09-25T16:21:12Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nigerian farmers clamor for GMO cowpea seeds",
+        "description": "The demand for new genetically modified pod borer-resistant (PBR) cowpea seeds far outstripped the supply as Nigerian farmers see how it can resist the Maruca insect pest, reducing pesticide use and increasing yields.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qrj1y3O3AmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qrj1y3O3AmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qrj1y3O3AmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qrj1y3O3AmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qrj1y3O3AmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qrj1y3O3AmI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "qrj1y3O3AmI",
+        "videoPublishedAt": "2021-09-25T16:21:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8Z4ZrjrXX0vMzBdxVSGSCNODQqw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LldFaWdGMVlPWG9Z",
+      "snippet": {
+        "publishedAt": "2021-08-25T14:55:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Food Systems Summit Dialogue - The Role of Gene Edited Crops in Addressing Nutritional Insecurity",
+        "description": "Nutritional insecurity is a pressing topic around the globe. Some nations struggle with widespread lack of access to nutritious foods and the related hunger, while other nations are facing significant challenges related to increasing levels of obesity due to diets high in fats, sugars and processed carbohydrates. The Alliance for Science is hosting a conversation that explores the impact that gene editing can have in developing and cultivating nutritious foods that will help to address these intractable problems and positively transform our food systems. \n\n\nJoin our independent UN Food Systems Summit dialogue to hear from and engage with a panel of experts in the field of gene editing, nutrition and policy. Speakers include Dr. Lawrence Haddad, executive director of the Global Alliance for Improved Nutrition (GAIN); Dr. Tom Adams, co-founder and CEO of Pairwise; Dr. Cecilia S. Acuin, associate professor in the Institute of Human Nutrition and Food at the University of the Philippines Los Baños; Ambassador Dr. Miguel J. Garcia-Winder, Former Undersecretary of Agriculture/Mexico; and Patience Koku, CEO of Replenish Farms in Nigeria.  Dr. Sarah Evanega, director of the Alliance for Science, will moderate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WEigF1YOXoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WEigF1YOXoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WEigF1YOXoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WEigF1YOXoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WEigF1YOXoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WEigF1YOXoY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "WEigF1YOXoY",
+        "videoPublishedAt": "2021-08-25T14:55:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EMho4UVY7j--NIVEj6bD1lHMrZY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk9ZeGlGd2F0UkVJ",
+      "snippet": {
+        "publishedAt": "2021-08-12T19:11:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Breeding better bananas for a richer, food secure Africa",
+        "description": "In East African countries, bananas are an important staple food and cash crop. However, most of the East African bananas are susceptible to pests and diseases, threatening the livelihoods of over 30 million people. Scientists in Kenya and Uganda are developing and testing hybrid cultivars resistant to Black Sigatoka disease,  the most serious constraint to banana production. In this webinar, Patricia Nanteza will interview scientists who are developing and promoting the adoption of these hybrid banana varieties. Ivan Kabiita Arinaitwe is a banana breeder at Uganda’s National Banana Research Program, Mary Mwangi is a lecturer in the Department of Biochemistry, Microbiology  and Biotechnology at Kenyatta University and Grace Wamue is an associate professor of Sociology, Gender & Development Studies at Kenyatta University. They will talk about the potential of these high-yielding new hybrids to boost farmers income and food security in Africa, as well as the gender issues associated with this research.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OYxiFwatREI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OYxiFwatREI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYxiFwatREI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OYxiFwatREI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OYxiFwatREI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OYxiFwatREI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "OYxiFwatREI",
+        "videoPublishedAt": "2021-08-12T19:11:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0c0oZkT2Wg5f8BHA2-H-ukXQnXs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlpVTnRYaUh4S1Fz",
+      "snippet": {
+        "publishedAt": "2021-08-03T14:15:05Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Gene editing: New era of agriculture research in Africa",
+        "description": "African scientists across the continent are hopeful that gene editing is a tool that can support Africa’s food security by helping to increase crop productivity, enhance nutrition and make crops more resilient to climate change. Gene editing research is already being used to improve major staple foods in Africa, such as maize, sorghum, wheat, cassava, yam, sweet potato and banana, among others, and the research results are promising. In this session, Andrew Kiggundu, project manager of Virus Resistant Cassava for Africa (VIRCA) at Donald Danforth Plant Science Center, will be discussing gene editing with James Karanja, KALRO; John Odipio, NARO Uganda, and Rose Harriet Okech, IITA-Kenya. The three scientists are working in various capacities to advance gene editing research in Africa. They will discuss opportunities and anticipated challenges as they use this tool in developing improved and climate resilient crops for Africa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUNtXiHxKQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUNtXiHxKQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUNtXiHxKQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUNtXiHxKQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUNtXiHxKQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZUNtXiHxKQs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ZUNtXiHxKQs",
+        "videoPublishedAt": "2021-08-03T14:15:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hAuWl7L6NV5SYSM-egwCe_xj-2E",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmpqdWd4bndxUmVF",
+      "snippet": {
+        "publishedAt": "2021-07-28T18:33:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Food Systems Summit Dialogue: Role of Ag Biotech in Transforming Food Systems",
+        "description": "The UN Special Envoy for the 2021 Food Systems Summit has invited all sectors of society to share their perspectives and solutions. Independent Food Systems Summit Dialogues are being convened around the world both before and after the Summit, effectively crowdsourcing sustainable solutions to strengthen local and global food system. This summit dialogue will explore the role of agricultural biotechnology in transforming food systems for the better by increasing the yields, efficiency or resilience of staple crops.\n\nThe line up of global speakers includes: Graham Brookes, PG Economics – UK; Motlatsi Musi, farmer, South Africa; Aileen Garcia, International Rice Research Institute – Philippines; Arif Hossain, CEO of Farming Future Bangladesh; Vitumbiko Chinoko, Open Forum on Agricultural Biotechnology, Kenya; André Tomas Vilela Hermann, Synthetic Biology Club – Brazil; John Komen, Komen Bioscience Consultancy, Netherlands; Navneet Kaur, Indian post-doctoral researcher, Rothamsted Research – UK; Daniel Norero, Neocrop Technologies, Chile; Joseph Opoku Gakpo,  Ghana Agricultural and Rural Development Journalists Association; and convenor Pablo Orozco, Cornell Alliance for Science, Berlin.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jjugxnwqReE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jjugxnwqReE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjugxnwqReE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jjugxnwqReE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jjugxnwqReE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jjugxnwqReE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "jjugxnwqReE",
+        "videoPublishedAt": "2021-07-28T18:33:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0K7ioW55hGjfezjXpCu_L9ggc4c",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlctcDdFSklvTndR",
+      "snippet": {
+        "publishedAt": "2021-05-18T14:12:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Ray Dixon - Engineering Biological Nitrogen Fixation",
+        "description": "Ray Dixon is a microbiologist at the John Innes Centre in the UK.  \nHe’s currently the Co-Director JIC-CAS Centre of Excellence in Plant and Microbial Science.  Dixon has been working to understand the unique relationships between agricultural crops and nitrogen-fixing bacteria.  \n\nThese special bacteria live in the soil, converting nitrogen existing in the atmosphere into a form that can be taken up by plants.  Legume crops, like alfalfa, clover, beans, lentils, and even leguminous trees like locust, have the ability to create a symbiotic relationship with these bacteria if they are present in the soil, a benefit that both small and large scale farmers across the world have been utilizing for millennia.  \n\nIf the symbiosis between legumes and nitrogen fixing bacteria could be engineered to work with other crops like cereals, it could provide farmers, consumers, and the environment with huge positive benefits.  However, the exact functions that allow this process to happen are incredibly complex and scientists don’t know everything about them.  \n\nResearchers like Ray Dixon and his team at the John Innes Center are working hard to characterize the bacteria and their processes in hopes that specialized plants and associated nitrogen fixing bacteria could be co-developed, giving farmers high-yielding crops that preserve and restore soil health without requiring costly and potentially polluting synthetic fertilizers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-p7EJIoNwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-p7EJIoNwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-p7EJIoNwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W-p7EJIoNwQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W-p7EJIoNwQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W-p7EJIoNwQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "W-p7EJIoNwQ",
+        "videoPublishedAt": "2021-05-18T14:12:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MzQ8O1sKXrCLD1xWKsnD5sjyP18",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjgxenYwSXd3RnI4",
+      "snippet": {
+        "publishedAt": "2021-05-11T18:00:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Tribute to Sarah Evanega: CAST award",
+        "description": "Am Alliance for Science visual tribute to Sarah Evanega in recognition of her 2021 Borlaug CAST Communication Award.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/81zv0IwwFr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/81zv0IwwFr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/81zv0IwwFr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/81zv0IwwFr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/81zv0IwwFr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "81zv0IwwFr8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "81zv0IwwFr8",
+        "videoPublishedAt": "2021-05-11T18:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kZa4Zr9AgilyyAaIe6kHzt0IF_E",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlZlenRBM0FTeGRj",
+      "snippet": {
+        "publishedAt": "2021-04-29T19:52:18Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live -  Seed: Who decides what farmers grow? Patience Koku, Clet Wandui Masiga, Leonida Odongo",
+        "description": "April 26 is celebrated both as International Seed Day and the United Nation’s World Intellectual Property Day. It’s the perfect time to talk about seeds, the concept of seed sovereignty and the bigger question: who should decide what farmers grow? Join our panelists as they discuss the situation in the developing world in regard to the kinds of seeds farmers grow; the advantages and disadvantages of growing improved seeds; why activists advocate for farmers to continue using Landrace varieties, and what farmers want.\n\nPanelists include Patience Koku, a Nigerian farmer, entrepreneur and farmers’ advocate; Clet Wandui Masiga, a Ugandan geneticist and conservation biologist; and Leonida Odongo, director of Haki Nawiri Afrika, a Kenya-based social justice initiative. Ghanaian journalist Joseph Opoku Gakpo will moderate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VeztA3ASxdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VeztA3ASxdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VeztA3ASxdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VeztA3ASxdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VeztA3ASxdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VeztA3ASxdc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "VeztA3ASxdc",
+        "videoPublishedAt": "2021-04-29T19:52:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RQOMCiG8NEaGveyZCqkK1rK0Wq8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LllXSXFWTXJyUFFn",
+      "snippet": {
+        "publishedAt": "2021-04-29T19:50:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - GM crops and the global divide - Jennifer Thomson with Sarah Evanega",
+        "description": "Unfounded concerns about genetically modified (GM) crops have inhibited their uptake in many African countries, resulting in major impacts on agricultural production and potentially life-saving crops. Join AfS Director Sarah Evanega as she interviews microbiologist and author Jennifer Thomson, a South African who has extensively researched the impact of these detrimental impacts for her new book, GM Crops and the Global Divide. Thomson is emeritus professor in the Department of Molecular and Cell Biology at the University of Cape Town. She has written three previous books on GM crops in Africa.  By addressing the detrimental effects that anti-GM opinions have on nutrition security in developing countries and providing a clear account of the science to counter these attitudes, she hopes to highlight and ultimately bridge this divide.0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YWIqVMrrPQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YWIqVMrrPQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YWIqVMrrPQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YWIqVMrrPQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YWIqVMrrPQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YWIqVMrrPQg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "YWIqVMrrPQg",
+        "videoPublishedAt": "2021-04-29T19:50:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O1DKyiMpv6B68sZJYlnIfUqGiko",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkZVZ3NaVjJtVVFN",
+      "snippet": {
+        "publishedAt": "2021-04-21T16:56:53Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Susan McCouch - What is Digital Agriculture",
+        "description": "Autonomous drones buzz overhead, creating detailed maps of canopy temperatures. Tree-mounted sensors measure drought stress in orchards in real-time. Rapid diagnostics help farmers identify crop diseases and harvest quality in the field. High-quality data are sent to the cloud to be analyzed by artificial intelligence, and farmers on the ground make informed management decisions based on data and science. This is digital agriculture. Could a data revolution in agriculture empower farmers around the world? And how can public interest research and development deliver the benefits of digital agriculture in an equitable manner? Join Alliance for Science correspondent Chris Knight in conversation with Susan McCouch, an influential rice geneticist and director of the Cornell Institute for Digital Agriculture, a multidisciplinary initiative that aims to develop applied digital innovations in agriculture to improve the sustainability, profitability, resiliency and efficiency of the world’s food systems.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUgsZV2mUQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUgsZV2mUQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUgsZV2mUQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FUgsZV2mUQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FUgsZV2mUQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FUgsZV2mUQM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "FUgsZV2mUQM",
+        "videoPublishedAt": "2021-04-21T16:56:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZMuGOy5tuNiPxFvr0BDX_zMzLR8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm9jWWFpMm55V3Br",
+      "snippet": {
+        "publishedAt": "2021-04-09T21:33:49Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Seeds of Mentorship: Davies Korboe on empowering Ghana's youth in agribusiness",
+        "description": "Davies Korboe is a mango farmer and youth agribusiness advocate from Somanya in Southern Ghana . While some folks flock to cities for opportunity in their youth, Korboe found a different path, venturing into farming as a career and way of life. He graduated from college in 2002 and transitioned into farming full-time thereafter. Only a few years later, in 2009, Ghana’s Ministry of Food Agriculture recognized Korboe with an award for “Best Farmer” in the nation. Korboe has now taken to the airwaves, with his well-cultivated messaging from years of experience, as founder and on-air host of a community radio station. The station, Rites 90.1 FM, broadcasts information about agricultural opportunities targeted for youth. He also hosts an annual mentorship program for young farmers focusing on key principles in agribusiness. Korboe’s story is one of a love for agriculture and the environment, perseverance, business savviness, and a little bit of luck.\nWhat can be done to empower the next generation of farmers in Ghana? Join Alliance for Science Correspondents John Agaba and Chris Knight in conversation with Davies Korboe to learn about how a new cohort of agricultural entrepreneurs are growing a grassroots movement for change.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocYai2nyWpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocYai2nyWpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocYai2nyWpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ocYai2nyWpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ocYai2nyWpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ocYai2nyWpk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ocYai2nyWpk",
+        "videoPublishedAt": "2021-04-09T21:33:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vmWBXhCNvktWfg7SY6nK5VrAwXw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlZ3VVhXLXE3RHVB",
+      "snippet": {
+        "publishedAt": "2021-04-09T21:09:21Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Using earth data to inform policy in African agriculture",
+        "description": "How can data influence decisions by smallholder farmers, as well as policy? Join AfS’ Patricia Nanteza as she talks with Dr. Catherine Nakalembe, the 2020 Africa Food Prize Laureate, about ways in which science can have a real-life impact. Nakalembe will discuss the use of satellite technology to harness data that can guide agricultural decision-making. She will speak from personal experience, sharing moments when her data averted the potentially disastrous impacts of crop failure. Nakalembe grew up in Kampala, Uganda, and attended Makerere University before earning her doctorate in geographical science at the University of Maryland, where she is an assistant research professor. She is also the NASA Harvest Africa program director and serves as the Agriculture and Food Security Thematic Lead. Nakalembe’s work led to the establishment of food security and crop monitoring bulletins that integrate satellite data in East Africa. She also designed the trigger mechanism for the disaster risk financing program in Uganda that has supported over 300,000 households.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VwUXW-q7DuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VwUXW-q7DuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VwUXW-q7DuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VwUXW-q7DuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VwUXW-q7DuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VwUXW-q7DuA"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "VwUXW-q7DuA",
+        "videoPublishedAt": "2021-04-09T21:09:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iNsonDrWg7TWK6dFF6-NH5ktvOk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm82cjFHWnN4Q29F",
+      "snippet": {
+        "publishedAt": "2021-03-19T16:29:41Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Agroecology in Africa: Opportunities, Constraints, Prospects and Limitations",
+        "description": "The webinar will discuss the opportunities, constraints, prospects and limitations of agroecology in Africa. It will explore exactly what agroecology is, the ongoing efforts to popularize it in Africa, the likely positive and negative impacts of its widespread adoption, and its intersection with modern agricultural methods, among other topics.\n\nPanelists include: Irene Egyir, an associate professor in the University of Ghana’s Agricultural Economics Department; Nassib Mugwanya, a Ugandan agricultural communications specialist and PhD candidate at North Carolina State University; Bernard Guri, executive director of the Center for Indigenous Knowledge and Organizational Development, in Ghana; Pacifique Nshimiyimana, an agribusiness entrepreneur in Rwanda, and Charles Nyaaba, head of programs and advocacy for the Peasant Farmers Association. Moderator: Joseph Opoku Gakpo, a journalist from Ghana currently enrolled in a master’s program at North Carolina State University.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o6r1GZsxCoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o6r1GZsxCoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o6r1GZsxCoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o6r1GZsxCoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o6r1GZsxCoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o6r1GZsxCoE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "o6r1GZsxCoE",
+        "videoPublishedAt": "2021-03-19T16:29:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ASJzQdOXnh4zafpQLJvAPLWB_E0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk9ncVBsX1lkR3A4",
+      "snippet": {
+        "publishedAt": "2021-03-19T16:27:43Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Chat with scientist Samuel Acheampong on beta carotene enhanced sweet potato",
+        "description": "Alliance for Science correspondent Joseph Opoku Gakpo will speak with Ghanaian scientist Samuel Acheampong of the University of Cape Coast, Ghana. Join us as we discuss Achaempong's efforts to develop a high-yielding sweet potato with increased beta carotone content, and why it matters for thousands of people affected by vitamin A deficiency every year.\nRead more at: https://allianceforscience.cornell.edu/blog/2021/02/ghana-scientist-turns-to-gene-editing-to-improve-sweet-potato-crop/?fbclid=IwAR2VGnggNyLwMi-N_2AeBHQVsGSN-K1PTnweotztNH84s6fLNoBm3hQv7iU\n\n\"Research on Ghana’s first gene-edited crop — a high-yielding sweet potato with increased beta carotone content — is under way at the University of Cape Coast.\n“For sweet potatoes, we want to look at how we can use the CRISPR-Cas9 system to increase beta carotene,” said Samuel Acheampong of the university’s Department of Molecular Biology and Biotechnology, who has been working on the project for the past year. “Beta carotene is a big deal for us because as animals, when we eat beta carotene, our cells are able to convert them into vitamin A.”\nThe World Health Organization estimates that between 250,000 and 500,000 children in developing nations go blind every year as a result of vitamin A deficiency, making it the world’s leading preventable cause of childhood blindness. Some 50 percent of them die within a year of losing their sight. Respiratory illnesses and infectious and diarrheal diseases in children also have been linked to vitamin A deficiency.\nAcheampong is using CRISPR-Cas9 to knock out the genes responsible for the production of an enzyme in the sweet potato that converts beta carotene into other products. This will leave higher beta carotene content in the crop, which when consumed by humans will allow them to produce vitamin A. Sweet potato is a very popular vegetable in Ghana, making it ideal for a biofortification effort of this kind...\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OgqPl_YdGp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OgqPl_YdGp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgqPl_YdGp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OgqPl_YdGp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OgqPl_YdGp8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "OgqPl_YdGp8",
+        "videoPublishedAt": "2021-03-19T16:27:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "57e-kcSPsrDX94XZMvAYGXJ3LGo",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnNLWW5yVUc2aTNj",
+      "snippet": {
+        "publishedAt": "2021-03-16T16:25:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa's lagging Covid 19 rollout as deaths spike Dr  Michael Owusu",
+        "description": "Joseph Opoku speaks with Dr Michael Owusu, clinical microbiologist and  lecturer at the Department of Medical Diagnostics, Kwame Nkrumah University of Science and Technology, Ghana\n\nhttps://allianceforscience.cornell.edu/alliance-for-science-live/event/covid-vaccine-whats-at-stake-for-africa/\n\nAs wealthy nations hoard COVID-19 vaccine supplies, Africa is lagging in the global effort to immunize people against the disease even as its fatality numbers spike.\n\nThough Africa has 17 percent of the world’s population, it accounts for just 0.2 percent of the 209 million doses of COVID-19 vaccines administered to people across the globe. Meanwhile, the continent is experiencing a sharp rise in COVID infections and fatalities.\n\nAs of Feb. 22, some 2.66 million doses had been administered to people living in at least seven of Africa’s 55 countries, according to data from Bloomberg that the Alliance for Science analyzed.\n\nBy comparison, the United States had administered 64.28 million doses by that same date and the United Kingdom had given 18.34 million doses. Israel has administered 7.4 million doses, China 40.5 million doses and Russia 2.2 million doses, according to the Bloomberg tracker.\n\nSouth Africa President Cyril Ramaphosa, who is also chairman of the African Union, recently called on wealthy nations to make more COVID-19 vaccines available to the rest of the world. He criticized them for hoarding vaccine supplies.\n\n“The rich countries of the world went out and acquired large doses. Some even acquired up to four times what their population needs … to the exclusion of other countries,” Ramaphosa observed during a virtual meeting of the World Economic Forum.\n\nThe European Union has ordered 525 million more full vaccinations than will be needed to vaccinate all its population, said Robin Cohen, a professor of development studies at the University of Oxford, after analyzing data from the Duke Health Innovation Center. The UK has ordered 65 million surplus full vaccinations, while Canada has ordered 156 million excess full vaccinations. Other wealthy nations have similarly ordered doses far in excess of what they need.\n\nThe African Union recently announced it has secured  400 million doses of coronavirus vaccines for the continent under COVAX, a World Health Organization initiative, bringing the total number of COVID-19 doses secured for Africa to 1.27 billion doses. However, it could take years before all those doses become available and at least 1.5 billion doses will be needed to vaccinate just 60 percent of the continent’s population.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKYnrUG6i3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKYnrUG6i3c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "sKYnrUG6i3c",
+        "videoPublishedAt": "2021-03-16T16:25:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aqE0_d_M0yjxo70GquxtssQ8deg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlJBRW9RX3VjcFJF",
+      "snippet": {
+        "publishedAt": "2021-02-19T15:07:42Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live - Chat with scientist Samuel Acheampong on beta carotene enhanced sweet potato",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RAEoQ_ucpRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RAEoQ_ucpRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RAEoQ_ucpRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RAEoQ_ucpRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RAEoQ_ucpRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RAEoQ_ucpRE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "RAEoQ_ucpRE",
+        "videoPublishedAt": "2021-02-19T15:07:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UpN1C9G2H3ZCZoLZvEr1YpQz1gY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlV2cWNiRFExNmFZ",
+      "snippet": {
+        "publishedAt": "2021-02-15T16:38:54Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Why Africa needs gene editing in agriculture",
+        "description": "University of Cape Coast in Ghana researcher Samuel Acheampong discusses why Africa needs to use genome editing to improve crops and the role that government can play.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvqcbDQ16aY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvqcbDQ16aY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvqcbDQ16aY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UvqcbDQ16aY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UvqcbDQ16aY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UvqcbDQ16aY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "UvqcbDQ16aY",
+        "videoPublishedAt": "2021-02-15T16:38:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dVLb9lkO4mWauT-axsptQroidow",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmkxck5Ib2REQVU0",
+      "snippet": {
+        "publishedAt": "2021-02-15T16:02:34Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Ghana pioneers gene edited crop research",
+        "description": "Ghana scientist Samuel Acheampong talks about his efforts to improve the beta carotene content of sweet potatoes in the country's first research project using gene editing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i1rNHodDAU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i1rNHodDAU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i1rNHodDAU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i1rNHodDAU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i1rNHodDAU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i1rNHodDAU4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "i1rNHodDAU4",
+        "videoPublishedAt": "2021-02-15T16:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7LaGw1Mq_tCaK6ZzdxTiwWOzino",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkE2Z0Z0UzhWTUVV",
+      "snippet": {
+        "publishedAt": "2021-02-04T20:36:44Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Gene editing - Developments in Latin America",
+        "description": "Latin America is a vast region with tremendous biodiversity as well as a growing population that needs to be fed. Yet 25 years after genetic engineering was introduced, the debate continues, with some LATAM countries imposing bans and restrictions. Now scientific innovation is taking the region on a different path. In a move to help Latin America realize its potential as a world power in food production,  farmers are partnering with scientists to create new crop varieties using gene editing techniques such as CRISPR-CAS 9.\n\nIn this webinar, we will have a conversation with LATAM scientists who currently are researching these new crop varieties in their laboratories. We will also discuss how existing genome editing regulation in the region will affect how quickly these crops get into the fields.  Join this conversation to learn what genome editing is, which crops are being gene-edited, why LATAM is investing in new breeding techniques and who is doing the research.\n\nPanelists include: Claudia Stange Klein, a professor in the Department of Biology of the Faculty of Sciences of the University of Chile whose research involves the use of biotechnology to improve fruit and vegetable crops; Alejandro Hernández, a research professor in genome editing and bioinformatics at TEC University in Costa Rica and regional director of biotechnology CA&C for CropLife who previously had position in government; and Paul Chavarriaga, leader of CIAT’s Genetic Transformation and Genome Edition Platform, the first to produce genetically edited rice and cassava (and soon beans) in Latin America,\n\nModerator: Luis Ventura, a biologist with expertise in biosafety and 2016 Cornell Alliance for Science Global Leadership Fellow representing Mexico.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A6gFtS8VMEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A6gFtS8VMEU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "A6gFtS8VMEU",
+        "videoPublishedAt": "2021-02-04T20:36:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UVKDnA9sYYFoNnnJlWKRmM3nj6A",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjZkdlZsN3MyOTlj",
+      "snippet": {
+        "publishedAt": "2021-01-27T20:03:37Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Cassava: Food security and household incomes",
+        "description": "In late 2020, Nigeria released five new cassava varieties in Nigeria. Their names indicate their attributes for the farmer, cook or consumer: Game-Changer, Hope, Obasanjo-2, Baba-70 and Poundable.  Join NextGen project leader Chiedozie Egesi and International Institute of Tropical Agriculture plant breeders Ismail Rabbi and Siraj Kayondo as they talk about these new varieties of cassava and their potential to improve food security and household incomes.  Tessy Madu, a research scientist at the National Root Crops Research Institute, will address the gender-specific benefits of these new varieties.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6dvVl7s299c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6dvVl7s299c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "6dvVl7s299c",
+        "videoPublishedAt": "2021-01-27T20:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CJKyv30LYMAXmwPAHRW3G3VrXNQ",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjhLck54NlczLU1F",
+      "snippet": {
+        "publishedAt": "2021-01-13T18:02:58Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live - Colin Christensen, One Acre Fund, Mohammed Arif, Farming Future Bangladesh",
+        "description": "What challenges in global food systems, agriculture and the environment will the incoming Biden administration inherit? What opportunities for impact can be utilized across different sociocultural contexts and geographies? Will the richest country in the world be able to realize an inclusive development paradigm that reduces poverty for men, women and children from the Sahel through South Asia to Central America? Will small holder farmers be given the tools they need to sustainably manage their land while producing enough to make a profit?  According to the World Health Organization, global hunger was on the rise prior to the emergence of COVID-19. Almost 700 million people went hungry in 2019, and the pandemic is estimated to push an additional 130 million people into food security. Three billion people currently cannot afford a healthy diet, and in sub-Saharan Africa and southern Asia, this is true for 57 percent of the population.  On the production side, the Food and Agriculture Organization found that the COVID-19 pandemic is substantially affecting market access for smallholder producers. Amidst these difficulties, farmers can expect to be continually challenged by climate change, depleted soils, stiff competition in markets, and emerging threats from agricultural pests and diseases. Join Colin Christensen and Arif Hossain as they discuss these compelling issues.\n\n Colin Christensen is the global policy director of the One Acre Fund, a Washington, DC-based nonprofit that provides financing and training to 1 million smallholder farmers in six countries in Eastern and Southern Africa. \n\nArif Hossain is the executive director of Farming Future Bangladesh, a communications and community engagement initiative that works to improve access to agricultural innovations to ensure sustainable food security. He holds a post-graduate degree in international relations from the University of Dhaka and is a 2015 Alliance for Science Global Leadership Fellow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8KrNx6W3-ME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 77,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8KrNx6W3-ME"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "8KrNx6W3-ME",
+        "videoPublishedAt": "2021-01-13T18:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kLy081IIJl8qa4WoXHrvlwGe638",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmFMV2g4RDZYalpr",
+      "snippet": {
+        "publishedAt": "2020-12-17T21:44:33Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: OGMs en Latino América: Presente, Pasado y Futuro",
+        "description": "Latino América es una región rica en biodiversidad y contrastes. Países con el más alto nivel de producción de OGMs en el mundo coexisten con países que han prohibido los cultivos genéticamente modificados a nivel Constitucional. Se parte de esta charla con cuatro científicos latinoamericanos que abordarán el pasado, el presente y el futuro de los OGMs en sus regiones. Los panelistas Lucia de Souza de Brasil, Daniel Domínguez de México, Sherly Montaguth de Colombia y Marcelo Castro de Costa Rica también hablarán sobre los desafíos que enfrentan los científicos latinoamericanos en la búsqueda de incrementar la adopción de la innovación en los campos agrícolas de la región. Luis Ventura de México y Global Leadership Fellow de la Alliance for Science, moderará la plática.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLWh8D6XjZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aLWh8D6XjZk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "aLWh8D6XjZk",
+        "videoPublishedAt": "2020-12-17T21:44:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4JwtnWYavjuSi8zT8zsuwHI5vuk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkdQM0ZJaTBTNkFr",
+      "snippet": {
+        "publishedAt": "2020-12-17T20:37:30Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Food Donations during COVID-19: Alliance for Science 'Farmer of the Year' Rick and Laura Pedersen",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GP3FIi0S6Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GP3FIi0S6Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GP3FIi0S6Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GP3FIi0S6Ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GP3FIi0S6Ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GP3FIi0S6Ak"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "GP3FIi0S6Ak",
+        "videoPublishedAt": "2020-12-17T20:37:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uUE1TjSxe-VUX_9b3Q18ZoLTpq0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Ljk1cjNHcHhWSkFJ",
+      "snippet": {
+        "publishedAt": "2020-11-18T17:36:37Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Black and female in science",
+        "description": "What is it like to be a black woman scientist? Do they feel invincible, less than their colleagues or like they belong? Are they in a constant battle to prove themselves, or do they feel free to focus on the thing they love – science? How do they deal with the stereotypes associated with being female, as well as those associated with being black? Though the number of black women in STEM remains low, it has increased since the 1990s. Dr. Diana Nanyumba, a Ugandan medical doctor based in the United Kingdom, will be conversing with Esther Ngumbi, an assistant professor of entomology at the University of Illinois at Urbana–Champaign. They’ll discuss what it means to be a black woman in a field traditionally dominated by men and a few white women.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/95r3GpxVJAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/95r3GpxVJAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/95r3GpxVJAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/95r3GpxVJAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/95r3GpxVJAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "95r3GpxVJAI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "95r3GpxVJAI",
+        "videoPublishedAt": "2020-11-18T17:36:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jAHlLMpgkwqmyFK8VsfCvI2BiN8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkxtRVlMNEM5aURr",
+      "snippet": {
+        "publishedAt": "2020-11-09T22:29:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Gene editing improves crops",
+        "description": "Zimbabwean plant scientist Nyasha Mudukuti discusses the safety of gene editing and its role in improving crops for farmers in Africa and elsewhere.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LmEYL4C9iDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LmEYL4C9iDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LmEYL4C9iDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LmEYL4C9iDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LmEYL4C9iDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LmEYL4C9iDk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "LmEYL4C9iDk",
+        "videoPublishedAt": "2020-11-09T22:29:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AclCQBhynq3kmpnM3qn6pzKQk0I",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjBNaldlbXF0SVRR",
+      "snippet": {
+        "publishedAt": "2020-11-05T13:03:22Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Hawaii papaya - First public sector GMO crop",
+        "description": "Using the tools of biotechnology, Cornell University researcher Dennis Gonsalves, now retired, bred a papaya resistant to the destructive ringspot virus. It was the first genetically modified commercial crop developed by a public sector scientist, and it saved Hawaii’s papaya farmers from ruin. In this program, Alliance for Science Global Leadership Fellows discuss the GM papaya from three different perspectives. In this broadcast, Joni Kamia talks about the modified papaya's success on her family’s farm on Oahu, Luis Ventura explores its potential in Mexico and Guido Nunez-Mujica will shares its tragic tale in Venezuela.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0MjWemqtITQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0MjWemqtITQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "0MjWemqtITQ",
+        "videoPublishedAt": "2020-11-05T13:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LBtIXWBIa5Ct1DPYROsWN5vGE1A",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LktLeFpubE1MY1dF",
+      "snippet": {
+        "publishedAt": "2020-10-29T19:50:57Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Bt cowpea – A GMO first in Africa",
+        "description": "In the fourth of our “GMO firsts” series we discuss insect-resistant (Bt) cowpea — the first genetically modified (GM) food crop unique to Africa and the first GM food crop to be commercially approved in Nigeria. This crop, which is a protein-rich staple food for millions, represents a major food security milestone for Nigeria and West Africa.  In this broadcast, Nkechi Isaac, a Nigerian journalist and Alliance for Science correspondent,  Dr. Rose Gidado, assistant director of the Agricultural Biotechnology Department at the National Biotechnology Development Agency (NABDA) and Nigerian Country Coordinator for the Open Forum on Agricultural Biotechnology (OFAB), and Prof. Mohammad Ishiyaku, principal investigator of the cowpea project at the Institute for Agricultural Research (IAR) at Ahmadu Bello University in Zaria, discuss the nutritional importance of cowpea as a “poor man’s meat,” the effectiveness of Bt cowpea in reducing pesticide use and the status of getting improved seeds out to Nigeria’s farmers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KKxZnlMLcWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 83,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KKxZnlMLcWE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "KKxZnlMLcWE",
+        "videoPublishedAt": "2020-10-29T19:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MbO92Z6JcKlvUPIalLxGm5MDeek",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkRJUGZwc2dfa3Q4",
+      "snippet": {
+        "publishedAt": "2020-10-27T20:06:05Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: AquAdvantage salmon: First GMO food animal",
+        "description": "In the third of our “GMO firsts” series we discuss the AquAdvantage salmon — the world’s first and only genetically modified animal approved for food. The AquAdvantage salmon grows to market weight in about half the time of a typical salmon, improving its sustainability. Join AquaBounty CEO Sylvia Wulf and Greg Jaffe, associate director of policy and regulatory affairs for the Cornell Alliance for Science, as they discuss the development of the salmon and its long regulatory journey to earn approval from the United States Food and Drug Administration.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIPfpsg_kt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 84,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DIPfpsg_kt8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "DIPfpsg_kt8",
+        "videoPublishedAt": "2020-10-27T20:06:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RXWNEnklWp4L8IqEvHHMA40d55I",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnVjdGx1aWRBVnln",
+      "snippet": {
+        "publishedAt": "2020-10-22T10:49:15Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Quel est l'impact de l'alarmisme contre les OGM?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uctluidAVyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uctluidAVyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uctluidAVyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uctluidAVyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uctluidAVyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 85,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uctluidAVyg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "uctluidAVyg",
+        "videoPublishedAt": "2020-10-22T10:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LZm1NShEm-sXgc3biUe1mhKILT4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjFTVm9kYVVvQ2tZ",
+      "snippet": {
+        "publishedAt": "2020-10-22T10:33:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "African communities need biotechnology",
+        "description": "Pacifique Nshimiyimana, an Alliance for Science Global Leadership Fellow and the founder of the Rwanda-based Real Green Gold, on the many ways biotechnology can improve lives in Africa. \n\n#biotechnology #climatechange #farmers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1SVodaUoCkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1SVodaUoCkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1SVodaUoCkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1SVodaUoCkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1SVodaUoCkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 86,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1SVodaUoCkY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "1SVodaUoCkY",
+        "videoPublishedAt": "2020-10-22T10:33:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yFkEKpmwzvEAvdgmX0b_veKcd6U",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkRmMXVNVGtlZFZN",
+      "snippet": {
+        "publishedAt": "2020-10-21T19:17:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AFS Live: Bt brinjal (eggplant) – A GMO first in South Asia",
+        "description": "In the inaugural session of our “GMO Firsts” series, Tony Shelton of Cornell University and Arif Hossain of Farming Future Bangladesh takes us down memory lane to 2013, when Bangladesh commercialized Bt brinjal (eggplant), South Asia’s first GMO food crop. They share how and why the idea of a transgenic brinjal was conceived, discuss the institutions and researchers behind its creation, explain the long process that led finally to deregulation and share the excitement of the big day when Bt brinjal was planted in a farmer’s field. The broadcast wraps up with some figures on how Bt brinjal has changed farmers’ livelihoods and health. Did you know that Bt brinjal brought about a 77 percent reduction in pesticide use? Register and listen to this amazing “GMO Firsts” story.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Df1uMTkedVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 87,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Df1uMTkedVM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Df1uMTkedVM",
+        "videoPublishedAt": "2020-10-21T19:17:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hg9FgPYlHxYw-PyvJrpniKjvReM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjJfM2lMOHg2NGVN",
+      "snippet": {
+        "publishedAt": "2020-10-02T15:30:21Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | Agroecology: What is it, anyway?",
+        "description": "The term agroecology is being used increasingly often, but what exactly does it mean? Is it a science, a system, a practice, a movement, an ideology or a combination of the above?  Our panelists will share their definitions of the term and discuss where agroecology can best be implemented. What are some of the opportunities and constraints in its adoption? What is driving the agroecology movement? What does it have in common with other systems of agriculture? And what role can it play in making agriculture more sustainable?\n\nThe panelists are: Pamela Ronald, professor in the Genome Center and the Department of Plant Pathology, and founding director of the Institute for Food and Agricultural Literacy, at the University of California, Davis; Frédéric Baudron, senior scientist and systems agronomist at CIMMYT; and Nassib Mugwanya, Ugandan agricultural communications specialist and PhD candidate at North Carolina State University. Joan Conrow, Alliance for Science managing editor, will moderate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2_3iL8x64eM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 88,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2_3iL8x64eM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "2_3iL8x64eM",
+        "videoPublishedAt": "2020-10-02T15:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_oWP2ihvqK_3wVeX8CrafyxZ3lA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkJPcS1wZGxSckNR",
+      "snippet": {
+        "publishedAt": "2020-10-02T12:05:57Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | American chestnut: Saving an iconic tree",
+        "description": "Dr. William (Bill) Powell, director of the American Chestnut Research & Restoration Project at SUNY College of Environmental Science and Forestry, and Dr. Jared Westbrook, director of science at the American Chestnut Foundation, discuss the campaign to win regulatory approval for the blight-tolerant chestnut tree as the first genetically modified tree used in environmental conservation use in the US. The talk is be moderated by Sara Fitzsimmons, director of restoration at the American Chestnut Foundation.\n\nIf you’d like to support the GM chestnut, the USDA is accepting public comments through October 19, 2020 at https://www.federalregister.gov/documents/2020/08/19/2020-18135/state-university-of-new-york-college-of-environmental-science-and-forestry-petition-for#open-comment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOq-pdlRrCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 89,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOq-pdlRrCQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "BOq-pdlRrCQ",
+        "videoPublishedAt": "2020-10-02T12:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BZBXsfSbaOAPMBAnkPV4xvetzWw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmp4QVg2SkV3bmJB",
+      "snippet": {
+        "publishedAt": "2020-09-24T13:52:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live | COVID vaccine: What’s at stake for Africa?",
+        "description": "Prof. Shabir A. Madhi, professor of vaccinology at the University of the Witwatersrand, Johannesburg, South Africa, and Dr. Michael Owusu, a clinical microbiologist and a lecturer at Kwame Nkrumah University of Science and Technology, Ghana, discuss Africa’s critical role in the global efforts to develop a vaccine for COVID-19. \n\nTopics include the current status and safety of clinical trials of vaccines; how vaccines are developed and distributed; the policy and regulatory requirements for development,  registration, access and use of vaccines; the safety and efficacy of vaccines; the role of public sentiment in accepting or rejecting a COVID vaccine; and political will and its impact on vaccine access on the continent.\n\nDr. Mercy Korir, a health journalist and editor with The Standard Group in Kenya, moderates the discussion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jxAX6JEwnbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 90,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jxAX6JEwnbA"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "jxAX6JEwnbA",
+        "videoPublishedAt": "2020-09-24T13:52:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JYkHmOqIvZ-PjXkcNGw4q_r_tBc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm5tNUZQS1lsVFdF",
+      "snippet": {
+        "publishedAt": "2020-09-22T09:33:00Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: What influences technology adoption in Africa?",
+        "description": "The African Agricultural Technology Foundation (AATF), an Alliance for Science partner, leads this discussion on technology adoption in Africa. Dr. Munyaradzi Jonga, AATF’s seed production manager, and Dr. Daniel Kyallo Willy, a program officer with AATF, share evidence about the speed at which African farmers are taking up new improved crop varieties and discuss concrete, actionable steps on how to improve technology adoption in Africa. Nancy Muchiri, AATF’s head of communications and partnerships, moderates the discussion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nm5FPKYlTWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nm5FPKYlTWE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "nm5FPKYlTWE",
+        "videoPublishedAt": "2020-09-22T09:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ygqr9lDFhEVC4lozzfmMc1ZSXF4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjFGYnpmSHlfdGg0",
+      "snippet": {
+        "publishedAt": "2020-09-22T07:50:22Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Women Who Farm Africa",
+        "description": "Women produce around 70 percent of Africa’s food but own only 20 percent of the land. Three members of the Alliance for Science’s 2019 Global Leadership Fellows Program cohort are working to change all of that through a new initiative to empower and inspire other women farmers throughout Africa. Slyvia Tetteh of Ghana, Ruramiso Mashumba of Zimbabwe and Sussana Phiri of Zambia hope their Women Who Farm campaign can start to eliminate some of the hardships that previous generations of African women have struggled with and that still provide roadblocks to success today.\n\n#WomenWhoFarmAfrica #AllianceForScience #AfricanAgriculture",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1FbzfHy_th4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1FbzfHy_th4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1FbzfHy_th4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1FbzfHy_th4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1FbzfHy_th4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "1FbzfHy_th4",
+        "videoPublishedAt": "2020-09-22T07:50:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g3ySpEEHpExBMelPNH5SDHPw2xc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Llg3S1RvOUluWjNF",
+      "snippet": {
+        "publishedAt": "2020-09-22T07:46:14Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Brazilian scientist: Biotechnology leads to self-sustainability",
+        "description": "Brazilian scientist and former AfS Global Leadership Fellow Andre Hermann on the need for all countries to develop their own technologies. \n\n#AllianceForScience #biotech #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7KTo9InZ3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7KTo9InZ3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7KTo9InZ3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X7KTo9InZ3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X7KTo9InZ3E"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "X7KTo9InZ3E",
+        "videoPublishedAt": "2020-09-22T07:46:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LaR9lt2U19Pvo4uCP5L4_Jkf7DU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlRscEpvbUxIUjJF",
+      "snippet": {
+        "publishedAt": "2020-09-18T22:47:56Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Why I support Bt crops in Burkina Faso",
+        "description": "Scientist Edgar Traore explains why he believes Bt crops are good for his country, Burkina Faso.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TlpJomLHR2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TlpJomLHR2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TlpJomLHR2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TlpJomLHR2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TlpJomLHR2E"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "TlpJomLHR2E",
+        "videoPublishedAt": "2020-09-18T22:47:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EEEuEBnUGbPqSnKKlTNcbG9xjQs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlpGTEZ4amFORFVn",
+      "snippet": {
+        "publishedAt": "2020-09-11T13:21:48Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Burkina Faso and the end of BT cotton (en Français)",
+        "description": "Eliane Bayala, a 2019 AfS Global Leadership Fellow and assistant coordinator at the Open Forum on Agricultural Biotechnology (OFAB) Burkina Faso, teams up with  Dr. Edgar Traore of OFAB Burkina Faso and Wiledio Naboho, a famer in Burkina Faso, to give an update on the country's agriculture sector two years after banning BT cotton. This session is in French.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZFLFxjaNDUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZFLFxjaNDUg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ZFLFxjaNDUg",
+        "videoPublishedAt": "2020-09-11T13:21:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EgXNHbpAKGyNv9MV9Ff5XQ2nGPY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjU1dFgzYW1oUmd3",
+      "snippet": {
+        "publishedAt": "2020-09-04T12:04:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live || Africa: Agriculture and food security in the COVID-19 era",
+        "description": "Alliance for Science Global Leadership Fellows Evans Okomeng (Ghana) and Alfred Namaasa (Uganda) discuss how COVID-19 is impacting agriculture and food security in Africa. Can small-scale agricultural systems become more resilient under health pandemics? What lessons can be learned?\n\nPlease note that technical difficulties meant that Veronica Mwaba (Zambia) was unfortunately unable to attend as planned and both Evans and Alfred had video connection problems.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/55tX3amhRgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "55tX3amhRgw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "55tX3amhRgw",
+        "videoPublishedAt": "2020-09-04T12:04:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fqLwTDMuhvcddzaE1mLknVwBRUw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmhRVV9aVTVoS25r",
+      "snippet": {
+        "publishedAt": "2020-09-01T13:29:48Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: COVID-19 in Africa: Myths, truth and re-opening",
+        "description": "Dr. Mercy Korir, a medical journalist with KTN News in Kenya, teams up with Dr. Wilson Winstons Muhwezi, associate professor of behavioral sciences and mental health at Makerere University, to discuss the myths and truth surrounding COVID-19 in Africa. They also offer guidance to governments as countries start to ease lockdowns. Christine Elong, development communications officer at the National Agricultural Research Organization (NARO) in Uganda, moderates the talk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQU_ZU5hKnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hQU_ZU5hKnk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hQU_ZU5hKnk",
+        "videoPublishedAt": "2020-09-01T13:29:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4ts9YQYpx4DafI5-m_iGPArnj7E",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmQ1enMwMGpZclBN",
+      "snippet": {
+        "publishedAt": "2020-08-11T11:34:46Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Hydroponics – Farming Without Soil",
+        "description": "Prof. Trevor Charles, chief science officer of Metagenom Bio and director of Waterloo Centre for Microbial Research, discusses what he sees as the future of agriculture — hydroponics. As the global population increases, the availability of land remains static, yet food production must continue to expand. Are vertical farms and other hydroponic production systems sustainable and cost-effective? Can we grow more food without soil? Dr. Charles addresses these questions and more.\n\n#afslive #allianceforscience #hydroponics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d5zs00jYrPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d5zs00jYrPM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "d5zs00jYrPM",
+        "videoPublishedAt": "2020-08-11T11:34:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oTI3KPBe1xDnZKbnzzJ92Ku5BqA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmFrb1BBRjdBRlhJ",
+      "snippet": {
+        "publishedAt": "2020-08-05T09:29:47Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Mujeres en ciencia",
+        "description": "En esta sesión vamos a conversar con mujeres empoderadas en la ciencia que compartirán experiencias ejemplares en la constante búsqueda de la equidad de género en el sector.\n\nSol Guerrero Ortiz: Es Bióloga con una maestría en Conservación y Manejo de Vida Silvestre. Actualmente trabaja con cooperación internacional en temas de medio ambiente con énfasis en integración de la conservación y el uso sostenible de biodiversidad. Es parte del cohorte 2016 del Programa de Liderazgo Global de la Alianza para la Ciencia de Cornell.\n\nSusana Arrechea: Ingeniera química, maestra y doctora en nanotecnología, actualmente trabaja como investigadora y como profesora. Arrechea ha desarrollado proyectos de nanotecnología, emprendimiento e innovación en Guatemala e internacionalmente. Es una científica reconocida con varios premios como el OWSD-Elsevier para mujeres investigadoras.\n\nDalia Marcela Lewi: Ingeniera Agrónoma con orientación Fitotecnia (UBA) y Doctora en Ciencias Biológicas de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. Actualmente (desde 12 de mayo de 2020) es la Directora de Biotecnología del Ministerio de Agricultura, Ganadería y Pesca de la Nación Argentina. Lideró el Grupo de Transformación Genética Vegetal en el Instituto de Genética de INTA hasta hacerse cargo de la Dirección en el Ministerio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/akoPAF7AFXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "akoPAF7AFXI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "akoPAF7AFXI",
+        "videoPublishedAt": "2020-08-05T09:29:47Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 251,
+    "resultsPerPage": 50
+  }
+}
