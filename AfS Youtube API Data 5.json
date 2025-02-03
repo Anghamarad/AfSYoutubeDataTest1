@@ -1,0 +1,2462 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "dzT-opCbuLp_lXC1eicb37tjStA",
+  "nextPageToken": "EAAac1BUOkNQb0JJaEJDTmpKRVF6SkdNRFUyTVRnMk5FWXhLQUZJZ0tqbm1aaTdpUU5RQVZvd0lrTm9hRlpXVjNCYVZGUnNabFZxV2s5U1YwWlVaR3RXZWxWVlNrTmtibEpRVW01alUwSm5hbEZ2V2s4MVFtY2k",
+  "prevPageToken": "EAEac1BUOkNNZ0JJaEJDTTBKQ01UVkJOa05CTlRoQ09FWkdLQUZJZ0tqbm1aaTdpUU5RQUZvd0lrTm9hRlpXVjNCYVZGUnNabFZxV2s5U1YwWlVaR3RXZWxWVlNrTmtibEpRVW01alUwSm5hbEZ2V2s4MVFtY2k",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pyw52fAd-9wcVhmA41taS3jRTVU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnJ5WDFkbW1FOHBr",
+      "snippet": {
+        "publishedAt": "2017-02-14T14:16:15Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Fighting for farmers in Ghana",
+        "description": "Ghana is a developing nation full of promise and a reputation to uphold as “The Gateway to Africa.” In this new Alliance for Science video, we follow the life of John Dzwiornu, a rice farmer and 2016 Alliance for Science Global Leadership Fellow, who has become a strong advocate of farmer’s rights and the need for access to better agricultural technology, a position he champions as vice president of the Ghanaian Association of Farmers and Fishermen.\n\n#Ghana #farming #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ryX1dmmE8pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ryX1dmmE8pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ryX1dmmE8pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ryX1dmmE8pk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ryX1dmmE8pk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 200,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ryX1dmmE8pk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ryX1dmmE8pk",
+        "videoPublishedAt": "2017-02-14T14:16:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Oe10I49xr5dkaEeHQyVrK7K2KVg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlYzeENtZm5BVl80",
+      "snippet": {
+        "publishedAt": "2016-12-28T18:34:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Hawaii GMO Papaya: Real Solutions, Real Lives",
+        "description": "Dialogue, discussion and the success of the genetically engineered papaya offer solutions to the conflict over GMO agriculture that has polarized communities in Hawaii.\n\n#GMOs #GMOpapaya #Hawaii",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V3xCmfnAV_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V3xCmfnAV_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3xCmfnAV_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V3xCmfnAV_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V3xCmfnAV_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 201,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V3xCmfnAV_4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "V3xCmfnAV_4",
+        "videoPublishedAt": "2016-12-28T18:34:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QxO5ae3ltGfZ3AQ0o0MTN9kRZlw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnA0OVdTWkJkdVpr",
+      "snippet": {
+        "publishedAt": "2016-12-01T20:35:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Boosting Yields by Improving Photosynthesis: Steve Long",
+        "description": "Professor Steve Long and his team at Realizing Improved Photosynthetic Efficiency (RIPE) project are focusing their energy on helping plants boost yields by improving the efficiency of plant photosynthesis. \n\nThe team hopes transfer this success to food crop staples such as rice, cassava and the African legume cowpea.\n\nYou can learn more about the process here https://www.youtube.com/watch?v=Av0dTk9KzlY\n\n#agriculture #photosynthesis #crops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p49WSZBduZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p49WSZBduZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p49WSZBduZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p49WSZBduZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p49WSZBduZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 202,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p49WSZBduZk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "p49WSZBduZk",
+        "videoPublishedAt": "2016-12-01T20:35:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uN6f00CQ0CfvKXSNvfA0KugM-uQ",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnUxOUlfM0o1MFVR",
+      "snippet": {
+        "publishedAt": "2016-12-01T19:10:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science Fall Speaker Series - Amy Hepworth",
+        "description": "The Alliance for Science 2016 Fall Speaker Series hosts Amy Hepworth as she presents \"Moving Beyond a Two-Party Agricultural System\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u19I_3J50UQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u19I_3J50UQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u19I_3J50UQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u19I_3J50UQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u19I_3J50UQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 203,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u19I_3J50UQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "u19I_3J50UQ",
+        "videoPublishedAt": "2016-12-01T19:10:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JZjgx4Q99doWadh2bOpoFMlELKo",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlZtYmJPMnJDb3Nv",
+      "snippet": {
+        "publishedAt": "2016-11-29T17:08:09Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Meet the Game Changers",
+        "description": "Meet the 2016 Cornell Alliance for Science Global Leadership Fellows as they discuss their commitment to help farmers and end world hunger through the tools of biotechnology.\n\n#allianceforscience #globalleadershipfellows #gamechangers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VmbbO2rCoso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VmbbO2rCoso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmbbO2rCoso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VmbbO2rCoso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 204,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VmbbO2rCoso"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "VmbbO2rCoso",
+        "videoPublishedAt": "2016-11-29T17:08:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "60BAXcDEqFmnuKRs9l9Gw7qj7_Y",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LndhMHQtaTc5VWNv",
+      "snippet": {
+        "publishedAt": "2016-11-11T16:50:39Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science Fall Speaker Series - Jayson Merkley",
+        "description": "Jayson Merkley joins the Alliance for Science Fall Speaker Seminar as he discusses “Building the Ethical Vegan Case for Biotechnology”.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wa0t-i79Uco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wa0t-i79Uco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wa0t-i79Uco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wa0t-i79Uco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wa0t-i79Uco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 205,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wa0t-i79Uco"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "wa0t-i79Uco",
+        "videoPublishedAt": "2016-11-11T16:50:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZzoP76ZQMQEnUJxndK9CxUZhWYE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk1xRU8yaHFoYUhF",
+      "snippet": {
+        "publishedAt": "2016-11-03T18:03:02Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Thomas Sleight",
+        "description": "The Alliance for Science hosts Thomas Sleight, President and CEO of U.S. Grains Council and his talk \"The 2016 Election and the Future of Agricultural Trade\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MqEO2hqhaHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MqEO2hqhaHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqEO2hqhaHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MqEO2hqhaHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MqEO2hqhaHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 206,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MqEO2hqhaHE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "MqEO2hqhaHE",
+        "videoPublishedAt": "2016-11-03T18:03:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A0usSMSGOLseBrN5FrH0Ai2XP8M",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmNGNVJhTkNNYVA4",
+      "snippet": {
+        "publishedAt": "2016-10-27T18:07:55Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Jayne Raper, Ph.D.",
+        "description": "Join the Alliance for Science 2016 Fall Speaker Series continues with Jayne Raper, Ph.D., Hunter College Proffessor of City University of New York as she presents \"Of Mice and Cattle-Antimicrobial High Density Lipoprotein: The Really Good Cholesterol\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cF5RaNCMaP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cF5RaNCMaP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cF5RaNCMaP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cF5RaNCMaP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cF5RaNCMaP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 207,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cF5RaNCMaP8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "cF5RaNCMaP8",
+        "videoPublishedAt": "2016-10-27T18:07:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MDoBiuu0Crh3S4eox5tDj_bSmdM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LllTbWd5TzRxZ0xZ",
+      "snippet": {
+        "publishedAt": "2016-10-21T00:19:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Ariel Alvarez",
+        "description": "The Alliance for Science 2016 Fall Speaker Series hosts Ariel Alvarez as he presents \"Biotechnology in Mexico. A Story Not to be Repeated\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YSmgyO4qgLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YSmgyO4qgLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YSmgyO4qgLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 208,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YSmgyO4qgLY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "YSmgyO4qgLY",
+        "videoPublishedAt": "2016-10-21T00:19:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_bsphH-B4mFxXxKPL7-rtHThfxk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk9NVk5vei1ncV9v",
+      "snippet": {
+        "publishedAt": "2016-10-19T02:39:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Global Agriculture in the Face of Climate Change",
+        "description": "A community panel discussion with Alliance for Science Global Leadership Fellows about the challenges of global agriculture in the face of climate change.\n\nNassib Mugwanya, 2015, Uganda\nModesta Nnedinso, 2015, Nigeria\nSol Guerrero Ortiz, 2016, Mexico\nJoseph Opoku, 2016, Ghana\nYan Mi, 2016, China\n\nModerators:\nMarlene Ortiz-Berrocal, Mexico\nNancy Muchiri, Kenya",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMVNoz-gq_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMVNoz-gq_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMVNoz-gq_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OMVNoz-gq_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OMVNoz-gq_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 209,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OMVNoz-gq_o"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "OMVNoz-gq_o",
+        "videoPublishedAt": "2016-10-19T02:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p5UstfUu66X2pSo_8tdKknFr4pA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnhRS3VRYkdSVmVR",
+      "snippet": {
+        "publishedAt": "2016-10-14T19:11:31Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Global Leadership Fellows Video Journal: Yan Mi, Week 1",
+        "description": "Hear Yan Mi's thoughts as the 2016 Alliance for Science Fellow experiences the journey of the Global Leadership Fellows Program.\n\n#allianceforscience #globalleadershipfellows #teamwork",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQKuQbGRVeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQKuQbGRVeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQKuQbGRVeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xQKuQbGRVeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 210,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xQKuQbGRVeQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "xQKuQbGRVeQ",
+        "videoPublishedAt": "2016-10-14T19:11:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pRAJlFC0rAAWsmXY-HSQbOHzQrA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk03d0FJeWpKV0k0",
+      "snippet": {
+        "publishedAt": "2016-10-14T19:06:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Global Leadership Fellows Video Journal: Sol Guerrero Ortiz, Week 2",
+        "description": "Sol Guerrero Ortiz, a 2016 Alliance for Science Global Leadership Fellow, shares her thoughts during Science Week. \n\n#allianceforscience #science #globalleadershipfellows",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M7wAIyjJWI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7wAIyjJWI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M7wAIyjJWI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M7wAIyjJWI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M7wAIyjJWI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 211,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M7wAIyjJWI4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "M7wAIyjJWI4",
+        "videoPublishedAt": "2016-10-14T19:06:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7sIT5Tz2JABps84IMUO6x2ozf9E",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lml2UDBQakcyNVlV",
+      "snippet": {
+        "publishedAt": "2016-09-22T15:24:52Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Muna Ndulo",
+        "description": "The first of our 2016 Fall Speaker Series. Cornell School of Law Professor Muna Ndulo speaks to the Institute for African Development talking about The UN Sustainable Development Goals: Why They Matter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ivP0PjG25YU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ivP0PjG25YU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ivP0PjG25YU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ivP0PjG25YU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ivP0PjG25YU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 212,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ivP0PjG25YU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ivP0PjG25YU",
+        "videoPublishedAt": "2016-09-22T15:24:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PwbQ9VMlbUfu3m7yBEr_NjX5eK0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmhHOGRtY3ZPREpr",
+      "snippet": {
+        "publishedAt": "2016-09-15T18:23:18Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science 2016 Fall Speaker Series - Andrew Kniss",
+        "description": "The Alliance for Science 2016 Fall Speaker Series continues with Assoc. Prof. of Plant Science Andrew Kniss from the University of Wyoming speaking about \"In the Weeds: The Impact of GMOS on Herbicide Use and Weed Management In the U.S.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hG8dmcvODJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hG8dmcvODJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hG8dmcvODJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hG8dmcvODJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hG8dmcvODJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 213,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hG8dmcvODJk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hG8dmcvODJk",
+        "videoPublishedAt": "2016-09-15T18:23:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VYva3gkNul17nNcJlWp5ptex5x8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjJyRXQ0eDFSdnpV",
+      "snippet": {
+        "publishedAt": "2016-09-14T15:38:02Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "I've got the gene for you! The science behind making parasite-resistant cattle",
+        "description": "As African farmers suffer financial hardship from crop losses caused by climate change, scientists seek to reduce poverty through a genetic solution to sleeping sickness in cattle.\n\nSee Part 1 where Dr Jayne Raper explains the importance of making parasite-resistant cattle to help reduce poverty in Sub-Saharan Africa: https://www.youtube.com/watch?v=h6S0mcSJ-34",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2rEt4x1RvzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2rEt4x1RvzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2rEt4x1RvzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2rEt4x1RvzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 214,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2rEt4x1RvzU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "2rEt4x1RvzU",
+        "videoPublishedAt": "2016-09-14T15:38:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lUV5yXwAUKFrne4QwtIUtEWTyP8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmg2UzBtY1NKLTM0",
+      "snippet": {
+        "publishedAt": "2016-09-14T15:32:29Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Making disease-resistant cattle in Africa",
+        "description": "As African farmers suffer financial hardship from crop losses caused by climate change, Dr. Jayne Raper and other scientists seek to reduce poverty through a genetic solution to sleeping sickness in cattle. \n\nSee Dr Jayne Raper's science behind making parasite-resistant cattle: https://www.youtube.com/watch?v=2rEt4x1RvzU\n\n#geneticengineering #farming #animalagriculture",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h6S0mcSJ-34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h6S0mcSJ-34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6S0mcSJ-34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h6S0mcSJ-34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 215,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h6S0mcSJ-34"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "h6S0mcSJ-34",
+        "videoPublishedAt": "2016-09-14T15:32:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tR4L9j61M6ZB9M8vnhN4LUE-Kns",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmZiMm53bjh2bi1z",
+      "snippet": {
+        "publishedAt": "2016-07-26T16:52:21Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AquAdvantage Salmon: The World's Most Sustainable Salmon?",
+        "description": "Though vilified by anti-GMO activists as dangerous, no human food has been more carefully scrutinized than the AquAdvantage® Salmon. The fast-growing fish also provides a way to produce quality protein locally and sustainably in land-locked systems — an important consideration in the face of climate change impacts on ocean resources.\n\n#aquadvantage #salmon #agriculture",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fb2nwn8vn-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fb2nwn8vn-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fb2nwn8vn-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fb2nwn8vn-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fb2nwn8vn-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 216,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fb2nwn8vn-s"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "fb2nwn8vn-s",
+        "videoPublishedAt": "2016-07-26T16:52:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rB0tTOD7CfIfX5bg5vU_nO6STSw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Ll9DSE82ZGltLUVV",
+      "snippet": {
+        "publishedAt": "2016-07-18T16:23:13Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Pursuing a Dream: Tackling Climate Change and Soil Salinity",
+        "description": "Dr. Ashwani Pareek, and his wife Dr. Sneh Pareek, are Indian scientists who have both dedicated their research to studying how plants can adapt to the stresses of drought and salinity. Dr. Ashwani Pareek hopes to one day use this technology to help farmers in his home village of Sambhar, and elsewhere  in India, grow the traditional crops that they can no longer grow due to increasingly poor soil in area.\n\n#climatechange #farming #india",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_CHO6dim-EU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_CHO6dim-EU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CHO6dim-EU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_CHO6dim-EU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_CHO6dim-EU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 217,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_CHO6dim-EU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "_CHO6dim-EU",
+        "videoPublishedAt": "2016-07-18T16:23:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N0hSWVcBF_cxV9ckWigvVjk0XKE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjU2YkhjUG1OT2JV",
+      "snippet": {
+        "publishedAt": "2016-06-29T19:48:55Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "An update on crop biotechnology in Burkina Faso",
+        "description": "An update on crop biotechnology in Burkina Faso:\nForum international sur la bio technologie Burkina Faso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/56bHcPmNObU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/56bHcPmNObU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/56bHcPmNObU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/56bHcPmNObU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 218,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "56bHcPmNObU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "56bHcPmNObU",
+        "videoPublishedAt": "2016-06-29T19:48:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QrSLrqoXsxzvwswi2QGEZL-2jis",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmNWSFdSZEpKb2JN",
+      "snippet": {
+        "publishedAt": "2016-06-22T13:21:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Cornell Alliance for Science: Fund a Fellow",
+        "description": "To learn more about how to fund a fellow, please visit: http://allianceforscience.cornell.edu/fund-a-fellow\n\n#allianceforscience #fundafellow #futureleaders",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVHWRdJJobM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVHWRdJJobM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVHWRdJJobM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cVHWRdJJobM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 219,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cVHWRdJJobM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "cVHWRdJJobM",
+        "videoPublishedAt": "2016-06-22T13:21:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6ovcV-TFKnIFEqe_FkREbt4NEJc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm5FSEV0NTZ3MFBV",
+      "snippet": {
+        "publishedAt": "2016-05-31T23:42:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Bt Brinjal in Bangladesh: Farmers' Perspectives",
+        "description": "Bangladeshi farmers discuss their success growing Bt brinjal, a new variety of genetically modified eggplant that is resistant to the fruit and shoot borer pest.\n\n#farming #bangladesh #gmos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nEHEt56w0PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nEHEt56w0PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nEHEt56w0PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nEHEt56w0PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nEHEt56w0PU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 220,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nEHEt56w0PU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "nEHEt56w0PU",
+        "videoPublishedAt": "2016-05-31T23:42:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ItgaiSjTYXqOmBF2lZ_PGSwc4H8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmhrMEg1cXI5M3Rj",
+      "snippet": {
+        "publishedAt": "2016-05-31T23:41:45Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Farmer Perspectives: Ron Sass",
+        "description": "Ron Sass, a corn and soybean farmer from northeast Iowa, discusses how agricultural biotechnology has helped his family farm, and how it would benefit farmers in the developing world.\n\n#farming #gmocrops #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hk0H5qr93tc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hk0H5qr93tc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hk0H5qr93tc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hk0H5qr93tc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hk0H5qr93tc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 221,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hk0H5qr93tc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hk0H5qr93tc",
+        "videoPublishedAt": "2016-05-31T23:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i1GemCf8Q4EQWrXHrurOX860-l0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkpleDNzVE9QTG80",
+      "snippet": {
+        "publishedAt": "2016-05-31T23:41:16Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "GMO feed safe for animals - Alison Van Eenennaam",
+        "description": "About 95 percent of all U.S. livestock eat GMO feed.  This GMO feed, and the animals that consume it, are safe, says Dr. Alison Van Eenennaam, Cooperative Extension Specialist in Animal Biotechnology and Genomics at the University of California – Davis. Studies have found no detrimental effects on animals from consuming GE feed, and no changes in their productivity or health.\n\n#gmos #livestock #foodsafety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jex3sTOPLo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jex3sTOPLo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jex3sTOPLo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jex3sTOPLo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jex3sTOPLo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 222,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jex3sTOPLo4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Jex3sTOPLo4",
+        "videoPublishedAt": "2016-05-31T23:41:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TtLg8CrP_oZSzypC_ufnVd0baSM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnlCdmRjVl9EOEo4",
+      "snippet": {
+        "publishedAt": "2016-05-31T20:45:35Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Status of Agricultural Biotechnology in Nigeria - Rose Gidado",
+        "description": "Dr. Rose Gidado, Assistant Director of the National Biotechnology Development Agency, discusses the status of cassava and cowpea in Nigeria. \n\n#biotechnology #nigeria #nutrition",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBvdcV_D8J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBvdcV_D8J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBvdcV_D8J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBvdcV_D8J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yBvdcV_D8J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 223,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yBvdcV_D8J8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "yBvdcV_D8J8",
+        "videoPublishedAt": "2016-05-31T20:45:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EM4UnztpZS3xO8uWKzkZoWkUAKs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnRvRVplYzNRZWZz",
+      "snippet": {
+        "publishedAt": "2016-05-17T17:19:31Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Biotech and Food Security in Africa — Chiedozie Egesi",
+        "description": "Chiedozie Egesi discusses the importance of biotechnology in addressing food security in Nigeria.\n\n#biotechnology #nigeria #nutrition",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/toEZec3Qefs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/toEZec3Qefs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/toEZec3Qefs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/toEZec3Qefs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/toEZec3Qefs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 224,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "toEZec3Qefs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "toEZec3Qefs",
+        "videoPublishedAt": "2016-05-17T17:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b_hNu2yJ38dN3pDpUKA7NtUAKP0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmhxUk1wV3E3Tnk0",
+      "snippet": {
+        "publishedAt": "2016-05-17T14:36:58Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Needs Biotech Crops",
+        "description": "Daniel Otunge, coordinator of the Open Forum on Agricultural Technology, discusses the critical need for biotechnology and innovation in Africa.\n\n#biotechnology #gmos #africa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hqRMpWq7Ny4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hqRMpWq7Ny4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hqRMpWq7Ny4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hqRMpWq7Ny4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hqRMpWq7Ny4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 225,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hqRMpWq7Ny4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hqRMpWq7Ny4",
+        "videoPublishedAt": "2016-05-17T14:36:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JOmyu-PZQdY8O7jgXWvfaIHDs9A",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmsyck9iWFlWemRV",
+      "snippet": {
+        "publishedAt": "2016-05-16T14:14:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Jennifer Thomson on biotech in Africa and Europe",
+        "description": "Dr. Jennifer Thomson, Professor of Microbiology, University of Cape Town, discusses how European views on biotech influence policy in Africa, and the importance of listening to the voices of African farmers on this issue.\n\n#gmos #biotechnology #africa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2rObXYVzdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2rObXYVzdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2rObXYVzdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k2rObXYVzdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k2rObXYVzdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 226,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k2rObXYVzdU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "k2rObXYVzdU",
+        "videoPublishedAt": "2016-05-16T14:14:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SRmqk4wWk86iBtZwRSBH_67YCj8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Llp3dDVPbk9PcmM0",
+      "snippet": {
+        "publishedAt": "2016-05-04T19:54:53Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "The climate outlook from Hawaii",
+        "description": "University of Hawaii Professor Dr. Chip H Fletcher talks about climate change and its impact on Hawaii and the world.\n\nTo learn more, visit: http://allianceforscience.cornell.edu/\n\n#climatechange #climatecrisis #hawaii",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zwt5OnOOrc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zwt5OnOOrc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zwt5OnOOrc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zwt5OnOOrc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zwt5OnOOrc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 227,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zwt5OnOOrc4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Zwt5OnOOrc4",
+        "videoPublishedAt": "2016-05-04T19:54:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oMQHyMQPK5kQcjj4POndcSMivAU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmYwS1Z2SGZPcW1r",
+      "snippet": {
+        "publishedAt": "2016-04-29T14:41:43Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Fighting the blight: New hope for the American chestnut",
+        "description": "Genetic engineers and thousands of average citizens are working together to restore the iconic American chestnut.\n\nRead more at http://allianceforscience.cornell.edu/blog/american-chestnut-enduring-classic and visit The American Chestnut Research and Restoration Project at http://www.esf.edu/chestnut/\n\n#geneticengineering #americanchestnut #savethetrees",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f0KVvHfOqmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f0KVvHfOqmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f0KVvHfOqmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f0KVvHfOqmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f0KVvHfOqmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 228,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f0KVvHfOqmk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "f0KVvHfOqmk",
+        "videoPublishedAt": "2016-04-29T14:41:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hBqcrfogb5btPvhQMiHsfy_2cCs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm1PamRueldHeUJ3",
+      "snippet": {
+        "publishedAt": "2016-03-08T17:27:25Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Sacrificing for Science",
+        "description": "Dr. Jennifer Thomson discusses the hard choices that faced many women when she embarked on a career in science.\n\n#womeninscience #science #allianceforscience",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOjdnzWGyBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOjdnzWGyBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOjdnzWGyBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mOjdnzWGyBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 229,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mOjdnzWGyBw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "mOjdnzWGyBw",
+        "videoPublishedAt": "2016-03-08T17:27:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HaPYfUjFKNuL0RxORT3FKawAHa4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Li1Ra3NfTE1tb2R3",
+      "snippet": {
+        "publishedAt": "2015-12-18T04:43:20Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Precision Breeding Offers New Alternative to Dehorning Cattle",
+        "description": "Holstein dairy cows typically have their horns removed (\"disbudded\") when they are calves. \n\nScientists have now discovered a way of using precision breeding techniques to make the typically-horned Holstein naturally polled (hornless) thus avoiding the uncomfortable disbudding procedure.\n\n#biotechnology #animalwelfare #dairyfarming\n\nCredits:\n\nVideo: Hannah Smith Walker & Jeremy Veverka\nEditing: Jeremy Veverka\nProduction Assistant: Shailee Shah\n\nFor more information, please visit: http://allianceforscience.cornell.edu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Qks_LMmodw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Qks_LMmodw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Qks_LMmodw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Qks_LMmodw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Qks_LMmodw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 230,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Qks_LMmodw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "-Qks_LMmodw",
+        "videoPublishedAt": "2015-12-18T04:43:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s_gx7m-22M0hmhsSEx2SbeRxvn8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lk5qNTJYSTRodGNF",
+      "snippet": {
+        "publishedAt": "2015-11-23T20:36:59Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science Global Leadership Fellows Program",
+        "description": "In Fall 2015, 25 emerging leaders from around the world came to Cornell University to participate in the inaugural Alliance for Science Global Leadership Fellows Program. A diverse group representing 10 nations, they were united in their passion to end world hunger through the use of science and evidence-based policies for food and agriculture.\n\n#allianceforscience #globalleadershipfellows #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nj52XI4htcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nj52XI4htcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nj52XI4htcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nj52XI4htcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nj52XI4htcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 231,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nj52XI4htcE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Nj52XI4htcE",
+        "videoPublishedAt": "2015-11-23T20:36:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b5Rq8r0b5IMLnuP42XRpw_-BP6k",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnpqVS1uU1p4TUpV",
+      "snippet": {
+        "publishedAt": "2015-11-03T15:27:52Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Bt Eggplant: A new option for farmers in Bangladesh",
+        "description": "Bangladeshi farmers dreaming of a better life find hope in the successful field demonstrations of Bt brinjal — eggplant genetically engineered to resist destructive pests. \n\nThe project was made possible through the cooperative efforts of the Agricultural Biotechnology Support Project II, Cornell University, Bangladesh Agricultural Research Institute and Bangladesh farmers, with funding by USAID.\n\nFor more information, visit: http://allianceforscience.cornell.edu/\n\n#gmos #btbrinjal #bangladesh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zjU-nSZxMJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zjU-nSZxMJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zjU-nSZxMJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zjU-nSZxMJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 232,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zjU-nSZxMJU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "zjU-nSZxMJU",
+        "videoPublishedAt": "2015-11-03T15:27:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "826DYSI2fpN0I8q8dVKiIbl1huc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlFFcDM0Rldkbm4w",
+      "snippet": {
+        "publishedAt": "2015-10-01T16:33:20Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Farm Babe: \"It's important to talk to farmers, not Google\"",
+        "description": "Michelle Miller, aka Farm Babe (https://www.facebook.com/IowaFarmBabe) and Iowa farmer Doug Sass talk about Michelle's transition from city girl to a farmer and her efforts to promote direct dialogue between farmers and the public.\n\n#farming #allianceforscience #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QEp34FWdnn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QEp34FWdnn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QEp34FWdnn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QEp34FWdnn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QEp34FWdnn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 233,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QEp34FWdnn0"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "QEp34FWdnn0",
+        "videoPublishedAt": "2015-10-01T16:33:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mn_aGuMAq1_fVfrWbAAo6-t0sB8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlZHaFJlUjF2aERF",
+      "snippet": {
+        "publishedAt": "2015-09-30T14:50:10Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "The Cornell Alliance for Science: Our Story",
+        "description": "The Alliance for Science is a communications-based non-profit organization represented by scientists, NGOs, journalists and concerned citizens from around the world who have come together to tell stories that restore the importance of scientific evidence in decision-making.\n\nLearn what the Cornell Alliance for Science is all about and become a Science Ally. Make a difference in the world today! hhttps://allianceforscience.cornell.edu/resources/join-us/ \n\n#allianceforscience #scicomm #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VGhReR1vhDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VGhReR1vhDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VGhReR1vhDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VGhReR1vhDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VGhReR1vhDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 234,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VGhReR1vhDE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "VGhReR1vhDE",
+        "videoPublishedAt": "2015-09-30T14:50:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lurxxgz6FqwnjDz4It3Els19WZY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LndMNTJEcF9YZ2tF",
+      "snippet": {
+        "publishedAt": "2015-09-02T15:49:14Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Genetically engineering goats to get better milk",
+        "description": "UC Davis professor Dr James Murray and PhD candidate Lydia Garas discuss transgenic goat milk research that if approved, could help treat diarrheal infections and inflammatory bowel disease.\n\nFor more information, please visit: http://allianceforscience.cornell.edu/\n\nSpecial thanks: Rachel Conway and UC Davis\n\n#geneticengineering #goats #animalagriculture",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wL52Dp_XgkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wL52Dp_XgkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wL52Dp_XgkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wL52Dp_XgkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wL52Dp_XgkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 235,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wL52Dp_XgkE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "wL52Dp_XgkE",
+        "videoPublishedAt": "2015-09-02T15:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nAg6pCBDUAhWMTWGWSkt8senIm4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmtIRE5DaG5pRVA0",
+      "snippet": {
+        "publishedAt": "2015-07-02T00:42:12Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Protecting crops using genes from garlic and onions",
+        "description": "Dr. Sampa Das from the Division of Plant Biology, Bose Institute, India, discusses how her research team is using lectin from garlic to protect other crops from pests and diseases.\n\n#crops #geneticengineering #gmos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHDNChniEP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHDNChniEP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHDNChniEP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kHDNChniEP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 236,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kHDNChniEP4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "kHDNChniEP4",
+        "videoPublishedAt": "2015-07-02T00:42:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-tUUJxQrIzykGFVguT9YWcLmFA0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnN1VFhoT1MtYnhr",
+      "snippet": {
+        "publishedAt": "2015-06-01T21:06:24Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Obstacles to Accessing Agricultural Technology in India",
+        "description": "Currently, Indian farmers can access just one seed technology: Bt cotton. Agricultural leaders in India, like G.S. Mann and G. Sidhu, question why they can't use technologies available in the West. \n\nMann and Sidhu argue for greater access based on their experience of higher yields and lower pesticide use with Bt cotton. Learn more at http://bit.ly/1KOY1HI\n\n#GMOs #biotechnology #India #BtCotton #science",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/suTXhOS-bxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/suTXhOS-bxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/suTXhOS-bxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/suTXhOS-bxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/suTXhOS-bxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 237,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "suTXhOS-bxk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "suTXhOS-bxk",
+        "videoPublishedAt": "2015-06-01T21:06:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "meTZVkoaiT5ZpjxHP3QHDTWlDas",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjRKSXFiUi1Sc1hj",
+      "snippet": {
+        "publishedAt": "2015-04-08T14:36:19Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Keith Kloor on How Cultural Brokers Shape the #GMOdebate",
+        "description": "Journalist Keith Kloor gives a lecture on March 23rd, 2015 on the Cornell University campus entitled \"How Cultural Brokers Shape the GMO Debate\".\n\n#GMOs #gmodebate #science #biotechnology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4JIqbR-RsXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4JIqbR-RsXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4JIqbR-RsXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4JIqbR-RsXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 238,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4JIqbR-RsXc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "4JIqbR-RsXc",
+        "videoPublishedAt": "2015-04-08T14:36:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tvsDsckg44I9fHzI3iMp2EworKs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkEwRWNUdjZ1NDVF",
+      "snippet": {
+        "publishedAt": "2015-03-14T14:31:18Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Bill Nye the Science Ally changed his mind on GMOs - you should too!",
+        "description": "Bill Nye checked the science and changed his mind on #GMOs, choosing science over ideology. \n\n#GMOdebate #science #BillNye",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A0EcTv6u45E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A0EcTv6u45E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A0EcTv6u45E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A0EcTv6u45E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 239,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A0EcTv6u45E"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "A0EcTv6u45E",
+        "videoPublishedAt": "2015-03-14T14:31:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e5Ahw0MZ0c5Gn9MK7ZZBU02zMac",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Llo1TFhxMW83UXhV",
+      "snippet": {
+        "publishedAt": "2015-03-04T20:27:15Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Fighting Banana Bacterial Wilt in Uganda",
+        "description": "Banana Bacterial Wilt (BBW) is a disease devastating East African Highland Banana crops.  In the case of BBW, a team of scientists at the National Agricultural Research Organisation (NARO) in Uganda have developed a banana variety that, using biotechnology, is resistant to Bacterial Wilt, offering the best hope for combatting the disease.\n\nWe would like to acknowledge the following groups for their contributions in producing this video:\n\nUganda Biosciences Information Center (UBIC)\nwww.UgandaBIC.org\n\nNational Agricultural Research Organisation of Uganda (NARO)\nwww.naro.go.ug\n\nThe Government of Uganda\n\nThe Farming Community\n\nCornell Alliance for Science\nallianceforscience.cornell.edu\n\nFor more information, please visit: http://allianceforscience.cornell.edu/\n\n#gmos #GMOdebate #science #biotechnology #farmers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z5LXq1o7QxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z5LXq1o7QxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z5LXq1o7QxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z5LXq1o7QxU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 240,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z5LXq1o7QxU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Z5LXq1o7QxU",
+        "videoPublishedAt": "2015-03-04T20:27:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QdBpdXm48HYx4sK9F0ON8pgvakA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkRHNXNTQlpFTVJj",
+      "snippet": {
+        "publishedAt": "2015-02-02T14:57:57Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alianza para la Ciencias #GatesLetter La Gran Apuesta",
+        "description": "En su carta anual este 2015, Bill y Melinda Gates, hacen una “Gran Apuesta” para los próximos 15 años: que debido a los avances en los sectores de la salud, agricultura, banca, y la educación, la vida de las personas viviendo en países pobres mejorará más rápido en estos 15 años que en cualquier otro momento en el pasado. Nosotros en la Alianza para las Ciencias queremos hacer un seguimiento, apostando que hasta el año 2030, el acceso a las innovaciones agrícolas mejorara al medioambiente, contribuirá a la seguridad alimenticia, y mejorará la calidad de vida a nivel mundial. Únete a la conversación en Twitter y en otras redes sociales, utilizando el hashtag #GatesLetter y compartiendo tus “Grandes Apuestas” para el 2030 con @ScienceAlly.\n\nNarration/Translation by Valeria San Juan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DG5sSBZEMRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DG5sSBZEMRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DG5sSBZEMRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DG5sSBZEMRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 241,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DG5sSBZEMRc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "DG5sSBZEMRc",
+        "videoPublishedAt": "2015-02-02T14:57:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7OFQSwiTfR0uSPv_hYhZ3RTFVwg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnhhWGMwejI2VnVV",
+      "snippet": {
+        "publishedAt": "2015-01-26T19:08:33Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Muungano wa Sayansi #GatesLetter Big Bet Challenge",
+        "description": "Sisi katika Muungano wa sayansi ni azimio letu\nkwamba miaka kumi na tano kutoka sasa bioteknolojia za kilimo zinazokuzwa\nna wanasayansi wa sekta ya umma\nzitaleta maendeleo katika maisha ya watu duniani.\nMiaka kumi na tano kutoka sasa wakulima wote duniani watapanda mimea ambayo\ninahitaji dawa chache za wadudu wa mimea na viongezi vya kemikali.\nNao mchele ndizi na mihogo iliyoimarishwa kibiolojia\nitaboresha lishe kwa mabilioni ya watu. \nMbiringanya na kunde zenye BT zitapunguza matumizi ya dawa za wadudu wa mimea \nhivyo basi kunufaisha wakulima, watumizi wa mazao na mazingira.\nMimea nayo itastawi katika hali ya hewa isiyotabirika\nkwa hivyo kuhimili joto ukame wadudu na magonjwa \nna pia kuweza kutumia kwa ufanisi zaidi\nrasilimali chache kama nitrojeni na maji.\nSisi katika Muungano wa sayansi ni azimio letu\nkwamba katika miaka kumi na tano kutoka sasa watu kutoka kila sehemu \nwatakuwa wameweza kutumia mbinu bunifu \nambazo zitaboresha mazingira, usalama wa chakula  \nna pia maisha duniani.\n\nNarrated by: Angela Siele\n\nSpecial thanks: Tom Mbega",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xaXc0z26VuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xaXc0z26VuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xaXc0z26VuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xaXc0z26VuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 242,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xaXc0z26VuU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "xaXc0z26VuU",
+        "videoPublishedAt": "2015-01-26T19:08:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l6-YLOI2VyMfJP_1HdkASPUOI3U",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjA4c2s5MWtlbGpz",
+      "snippet": {
+        "publishedAt": "2015-01-22T05:36:49Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "How Ag Biotech Will Be Changing Lives in 2030",
+        "description": "In their 2015 Annual Letter (http://www.gatesnotes.com/2015-annual-letter?page=0&lang=en&WT.mc_id=01_21_2015_AIN_EM_domain_Top_13), Bill and Melinda Gates make a \"Big Bet\" for the next 15 years: That thanks to breakthroughs in health, farming, banking, and education, the lives of people in poor countries will improve faster in the next 15 years than in any other time in history. We at the Alliance for Science want to follow up, betting that by 2030, access to agricultural innovations will specifically improve the environment, contribute to a more food secure world, and improve livelihoods globally. Join the conversation on Twitter and other social media outlets by using the hashtag #GatesLetter and by sharing your Big Bets for 2030 with @ScienceAlly.\n\n#GMOs #gmodebate #science #biotechnology #agriculture",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08sk91keljs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08sk91keljs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08sk91keljs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/08sk91keljs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/08sk91keljs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 243,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "08sk91keljs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "08sk91keljs",
+        "videoPublishedAt": "2015-01-22T05:36:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FcIkceISzp3sSzstPlZqk7lqspA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkVfMTQ5M0JVMnlZ",
+      "snippet": {
+        "publishedAt": "2014-12-05T21:22:54Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "William Powell American Chestnut Lecture",
+        "description": "Lecture given at Cornell University on October 21, 2014. Presented by William Powell, Co-Director of the American Chestnut Research & Restoration Project. http://www.esf.edu/chestnut/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_1493BU2yY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_1493BU2yY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_1493BU2yY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E_1493BU2yY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E_1493BU2yY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 244,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E_1493BU2yY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "E_1493BU2yY",
+        "videoPublishedAt": "2014-12-05T21:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ji4Y31stFwdiVN5i523fmQ-pQMg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjB5eHh6My1YeHpJ",
+      "snippet": {
+        "publishedAt": "2014-09-11T19:00:13Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Mark Lynas on anti-GMO campaigns and the potential for public-sector biotechnology",
+        "description": "We Interviewed Mark Lynas about misconceptions around molecular biology in plant breeding and about the potential benefits of using biotechnology to produce food with more benefits to farmers and consumers and less environmental consequences.\n\nMark Lynas was a former anti-GMO activist but has since dramatically changed his position on the technology.  Mark Lynas is the author of several books on the environment, including High Tide, Six Degrees, and The God Species.  He was the climate change advisor to the President of the Maldives between 2009 and 2011. In October 2013 he was appointed a Visiting Fellow at Cornell University’s Office of International Programs at the College of Agriculture and Life Sciences. He is also a member of the advisory board of the science advocacy group Sense About Science, and is a member of the World Economic Forum’s Global Agenda Council on Decarbonising Energy, which focuses on sustainable energy to mitigate climate change.\n\n#gmos #gmodebate #science #marklynas",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yxxz3-XxzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yxxz3-XxzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yxxz3-XxzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yxxz3-XxzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 245,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0yxxz3-XxzI"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "0yxxz3-XxzI",
+        "videoPublishedAt": "2014-09-11T19:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_ICkFdD34yxAKFpPrS9Na3rL8wc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjFMdGlKT3VoUzZj",
+      "snippet": {
+        "publishedAt": "2014-09-04T13:41:39Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Unbundle GMOs: Promoting Rational Conversation about Biotechnology",
+        "description": "\"Sticks in a Bundle Cannot Be Broken\"\n\nTreating \"GMOs\" as a bundled concept makes it difficult to evaluate them on a case by case basis.\n\nWhat traits are being modified?\nWho benefits?\nAre there environmental risks?\nWhat are the alternatives?\n\nZero tolerance towards GMOs prevents rational conversations.  This keeps people from being able to make informed decisions about the food they purchase or grow.\n\nAgriculture is facing enormous challenges. The climate is changing, water and land are becoming scarce, new diseases and pests threaten crops worldwide, and hundreds of millions of people still don't have access to adequate nutritious food.\n\nThe Cornell Alliance for Science believes science can help solve these challenges.  We need to disaggregate the GMO concept so that farmers and consumers really know what's in their food.\n\nFor more information - visit http://allianceforscience.cornell.edu\n\nAnimation by Evan Clayburg\nSound Design by Chris Knight\nMusic - \"ShallowPal\" - Auditone Music Library\n\n#gmos #gmodebate #biotechnology #farmers #science",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LtiJOuhS6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LtiJOuhS6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LtiJOuhS6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LtiJOuhS6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LtiJOuhS6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 246,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1LtiJOuhS6c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "1LtiJOuhS6c",
+        "videoPublishedAt": "2014-09-04T13:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zMqRm9wtJwi2Gp3YPQ7UyqnX8Vw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlBsZE9zQmtvaDc0",
+      "snippet": {
+        "publishedAt": "2014-08-21T13:35:59Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "BT Cotton in India - The Farmer's Perspective",
+        "description": "Gurjeet Singh Mann owns Mann Farms based out of Sirsa, India.  He describes his experiences with growing BT Cotton and the environmental benefits that have resulted after reducing pesticide use.\n\nFor more information, visit: http://allianceforscience.cornell.edu/\n\n#gmos #science #biotechnology #farmers #india",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PldOsBkoh74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PldOsBkoh74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PldOsBkoh74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PldOsBkoh74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 247,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PldOsBkoh74"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "PldOsBkoh74",
+        "videoPublishedAt": "2014-08-21T13:35:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Upingy1hgdMO8MrBlt6Oib1ZrXA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnNJOFU5NG8xb1pz",
+      "snippet": {
+        "publishedAt": "2014-08-21T13:35:59Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Can Biotechnology Help Save Citrus?",
+        "description": "Ricke Kress is the President of Southern Gardens Citrus.  He talks about a new disease that is ravaging citrus operations in Florida and how biotechnology may be able to save our citrus. \n\n#biotechnology #agriculture #science #gmos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sI8U94o1oZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sI8U94o1oZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI8U94o1oZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sI8U94o1oZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 248,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sI8U94o1oZs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "sI8U94o1oZs",
+        "videoPublishedAt": "2014-08-21T13:35:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RtUAUPvPUHURHB_notNfKZnGkI4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjV6NVJfVFNQR3pz",
+      "snippet": {
+        "publishedAt": "2014-08-18T14:53:01Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Zero-Pesticide BT Eggplant Farming in Gazipur, Bangladesh",
+        "description": "Our Interview with Munsur Sarker who is growing BT Eggplant in Gazipur, Bangladesh as part of the crop's limited release.  He describes how he's able to grow the crop without the use of harmful pesticides because of its resistance to insect pests. #gmos #science #BtBrinjal #farmers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5z5R_TSPGzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5z5R_TSPGzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5z5R_TSPGzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5z5R_TSPGzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 249,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5z5R_TSPGzs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "5z5R_TSPGzs",
+        "videoPublishedAt": "2014-08-18T14:53:01Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 251,
+    "resultsPerPage": 50
+  }
+}
