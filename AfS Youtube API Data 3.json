@@ -1,0 +1,2552 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Esvyej7udNgNMXoA1xdR0sc8Xms",
+  "nextPageToken": "EAAac1BUOkNKWUJJaEJCT1RZd09UQXdOakE0T0VJMlJFSXpLQUZJZ0tqbm1aaTdpUU5RQVZvd0lrTm9hRlpXVjNCYVZGUnNabFZxV2s5U1YwWlVaR3RXZWxWVlNrTmtibEpRVW01alUwSm5hbEZ2V2s4MVFtY2k",
+  "prevPageToken": "EAEaclBUOkNHUWlFRFF5TTBFMlFUSXlORVkyUTBRNVJFSW9BVWlBcU9lWm1MdUpBMUFBV2pBaVEyaG9WbFpYY0ZwVVZHeG1WV3BhVDFKWFJsUmthMVo2VlZWS1EyUnVVbEJTYm1OVFFtZHFVVzlhVHpWQ1p5SQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o2AHoaPJofHxj0al4dglKrp9avU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkZZLVhMZ3NXWkow",
+      "snippet": {
+        "publishedAt": "2020-08-04T10:00:13Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Food and nutrition security during the global pandemic",
+        "description": "Abebe Menkir has been breeding maize for over 20 years. He currently heads the maize breeding department at CGIAR-IITA. Menkir talks to Patricia Nanteza about the need to increase agricultural resilience in the face of climate change and global pandemics such as COVID-19. Maize, especially the orange variety, can provide the vitamin A necessary to boost immunity and also meet the body’s energy requirements.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FY-XLgsWZJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FY-XLgsWZJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FY-XLgsWZJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FY-XLgsWZJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FY-XLgsWZJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 100,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FY-XLgsWZJ0"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "FY-XLgsWZJ0",
+        "videoPublishedAt": "2020-08-04T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OhaHmm1gzP6Ilt20WPONh0L3SnA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjE4TExUenkta2dn",
+      "snippet": {
+        "publishedAt": "2020-08-04T09:48:37Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Africa's women farmers: Innovating in the time of COVID",
+        "description": "Four African women farmers discuss the innovative measures they are using to get their crops to the public despite Africa's lockdowns and travel restrictions during the COVID pandemic.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18LLTzy-kgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 101,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "18LLTzy-kgg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "18LLTzy-kgg",
+        "videoPublishedAt": "2020-08-04T09:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5sfVRtvK40-T4wcC0lzVOpn5wrw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Li0xWDNYNlJ0dXJz",
+      "snippet": {
+        "publishedAt": "2020-06-30T17:41:36Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Conspiracy Theories in the Time of COVID",
+        "description": "Bright Simons, founder and president of mPedigree; Whitney Phillips, Syracuse University; Stephan Lewandowsky, University of Bristol; Joanne Miller, University of Delaware; John Cook, George Mason University and moderator Mark Lynas discuss the nature and appeal of conspiracy theories and how to deal with them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1X3X6Rturs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 102,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-1X3X6Rturs"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "-1X3X6Rturs",
+        "videoPublishedAt": "2020-06-30T17:41:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QdiSNPJ-unAixJ_wVkJTkSRyMZA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnJPbE5NV0JWQzU0",
+      "snippet": {
+        "publishedAt": "2020-06-26T08:49:07Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Top 5 Most Promising COVID-19 Vaccine Projects",
+        "description": "More than 100 vaccine efforts are currently underway in the global push to stop the COVID-19 pandemic, according to the World Health Organization. Which are most likely to work? And how long will it take? Science writer Mark Lynas and AfS Fellow Modesta Nnedinso Abugu take a look at the five most promising candidates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rOlNMWBVC54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 103,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rOlNMWBVC54"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "rOlNMWBVC54",
+        "videoPublishedAt": "2020-06-26T08:49:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7UosgjZ3SUc7L3YFGbfjG815Ux8",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmVtQVZNZXk4ejRr",
+      "snippet": {
+        "publishedAt": "2020-06-23T20:12:18Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Navigating the new USDA rule on genetic engineering",
+        "description": "Biotech policy expert Greg Jaffe explains the new US Department of Agriculture rule on genetic engineering and answers questions about the topic in this AfS Live! presentation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/emAVMey8z4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 104,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "emAVMey8z4k"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "emAVMey8z4k",
+        "videoPublishedAt": "2020-06-23T20:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fQ_GSBoFbIImq5Vo23tUMyqjDOk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmk4YXJCaDlNdDU0",
+      "snippet": {
+        "publishedAt": "2020-06-22T15:46:56Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Brazil, COVID and the rise of anti-science sentiment",
+        "description": "Natalia Pasternak, director of Instituto Questão de Ciência (Question of Science Institute) — Brazil’s first institute to promote skepticism and rational thinking —  and Guatemalan attorney Pablo Orozco discuss Brazil's response to the COVID-19 pandemic and the rise of anti-science sentiment in the country.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8arBh9Mt54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 105,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i8arBh9Mt54"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "i8arBh9Mt54",
+        "videoPublishedAt": "2020-06-22T15:46:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ngV6Av5icyX0uLxFMZLyogwU0pk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjQzbkt6MFJRNHBF",
+      "snippet": {
+        "publishedAt": "2020-06-15T16:17:02Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "AfS Live: Africa Reports on COVID, Conspiracies and Crops",
+        "description": "In this live webinar recorded on June 15, 2020, three Alliance for Science correspondents — Nkechi Isaac, Joseph Opoku Gakpo and Verenardo Meeme — discussed the current situation in Nigeria, Ghana and Kenya, respectively, in response to COVID-19, associated conspiracy theories and food security. Joan Conrow, AfS managing editor, served as moderator. See the lineup of upcoming webinars at https://allianceforscience.cornell.edu/alliance-for-science-live/events/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43nKz0RQ4pE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 106,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "43nKz0RQ4pE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "43nKz0RQ4pE",
+        "videoPublishedAt": "2020-06-15T16:17:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_l4zYvOLhwR3q37fzCTMGvPbeIM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmZVYUF4TkxUVmo0",
+      "snippet": {
+        "publishedAt": "2020-06-10T11:31:44Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Introducing: Alliance for Science LIVE!",
+        "description": "AfS director Sarah Evanega introduces our new series of provocative and well-informed live webinars. See what's on tap at https://allianceforscience.cornell.edu/alliance-for-science-live/events/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fUaAxNLTVj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 107,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fUaAxNLTVj4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "fUaAxNLTVj4",
+        "videoPublishedAt": "2020-06-10T11:31:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I3v4-USASGLwj9GAJU2B2P_twos",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnhmX0hTaHMxbHdR",
+      "snippet": {
+        "publishedAt": "2020-05-27T07:53:01Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Man's best friend helps in fight against COVID-19",
+        "description": "Researchers in Finland and elsewhere are training dogs to detect the coronavirus and preliminary results indicate the dogs are better, faster and cheaper than current detection methods. Read more: https://allianceforscience.cornell.edu/blog/2020/05/dogs-sniff-covid19/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xf_HShs1lwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xf_HShs1lwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xf_HShs1lwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xf_HShs1lwQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xf_HShs1lwQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 108,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xf_HShs1lwQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "xf_HShs1lwQ",
+        "videoPublishedAt": "2020-05-27T07:53:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-jkOz03OENw7-eQUvbRH_KFs2IE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkFWTi1lVS1sQTAw",
+      "snippet": {
+        "publishedAt": "2020-04-15T07:47:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "How Bt brijnal made Bangladesh a global 'role model'",
+        "description": "Since entering the market in 2014, Bt brinjal has helped smallholder farmers in Bangladesh achieve higher yields, a 60 percent reduction in pesticide costs and a six-fold increase in net returns. The crop has been so successful that the USDA Foreign Agricultural Service recently released a report that hailed Bangladesh as \"a role model of acceptance and advancement of modern agricultural biotechnology.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVN-eU-lA00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVN-eU-lA00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVN-eU-lA00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVN-eU-lA00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVN-eU-lA00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 109,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AVN-eU-lA00"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "AVN-eU-lA00",
+        "videoPublishedAt": "2020-04-15T07:47:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5EqzyXr2YeTsaUEmaPgxKxIeMmg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlY5bGpEUDJGbm5B",
+      "snippet": {
+        "publishedAt": "2020-04-10T18:44:27Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science Global Leadership Fellows - Biotechnology as a Tool for Global Food Security",
+        "description": "The Cornell Alliance for Science seeks to promote access to scientific innovation as a means of enhancing food security, improving environmental sustainability, and raising the quality of life globally.\n\nWe are building a global network of science allies who share our commitment to solve complex global hunger issues by leveraging advances in agriculture, including biotechnology.\n\nThe Cornell Alliance for Science Global Leadership Fellows Program is a 12-week intensive training course held on the Cornell University campus in Ithaca, NY, USA. It is designed to equip and empower emerging international leaders who are committed to advocating for science-based communications and access to scientific innovation in their home countries. The training focuses on strategic planning, grassroots organizing, and innovative communications with a strong focus on stories of science and effective communications around agricultural biotechnology. Throughout the course, Fellows work to build comprehensive strategic communications plans promoting access to scientific innovation in their local contexts while engaged in seminars and workshops led by international thought leaders and subject matter experts, weekly colloquia organized and led by Fellows, and field trips to New York State farms and state-of-the-art research facilities.\n\nhttps://allianceforscience.cornell.edu/education/global-leadership-fellowship/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9ljDP2FnnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9ljDP2FnnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9ljDP2FnnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9ljDP2FnnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9ljDP2FnnA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 110,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V9ljDP2FnnA"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "V9ljDP2FnnA",
+        "videoPublishedAt": "2020-04-10T18:44:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zEdNBdYWTkxU4zmSUSAWS-JuyT4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkRzVzNUSncwb0dV",
+      "snippet": {
+        "publishedAt": "2020-02-06T15:34:03Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Fighting desert locusts without pesticides",
+        "description": "Dr. Michael Osae, president of the Entomological Society of Ghana, discusses genetic engineering as an alternative to using pesticide sprays to control the destructive desert locust.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DsW3TJw0oGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DsW3TJw0oGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DsW3TJw0oGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DsW3TJw0oGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DsW3TJw0oGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 111,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DsW3TJw0oGU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "DsW3TJw0oGU",
+        "videoPublishedAt": "2020-02-06T15:34:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uQ1l7PwYdUyhdRejjLOWJuSHfMs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjZlVUxHQVd1UDBB",
+      "snippet": {
+        "publishedAt": "2020-01-16T17:12:31Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Burkina Faso farmer calls for return of GMO cotton",
+        "description": "Wiledio Naboho, 2019 Alliance for Science Farmer of the Year, discusses the problems he and other farmers encounter growing cotton now that they've lost access to pest-resistant Bt cotton.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6eULGAWuP0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6eULGAWuP0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6eULGAWuP0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6eULGAWuP0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6eULGAWuP0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 112,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6eULGAWuP0A"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "6eULGAWuP0A",
+        "videoPublishedAt": "2020-01-16T17:12:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "88iL6Vu82sWN3DyLSBSihkPbhoA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Llk3Vmk1VkdQRElj",
+      "snippet": {
+        "publishedAt": "2020-01-06T14:59:50Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nyasha Mudukuti at the World Bank",
+        "description": "Nyasha Mudukuti discusses the need to fund science in Africa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7Vi5VGPDIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7Vi5VGPDIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7Vi5VGPDIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y7Vi5VGPDIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y7Vi5VGPDIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 113,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y7Vi5VGPDIc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Y7Vi5VGPDIc",
+        "videoPublishedAt": "2020-01-06T14:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L4WGP6WrB0KImWZjvtQR-jexcKE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkNUb0hXZVJaaVNR",
+      "snippet": {
+        "publishedAt": "2019-12-17T17:01:13Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Burkina Faso's Wiledio Naboho is 2019 Farmer of the Year",
+        "description": "The Cornell Alliance for Science has selected Wiledio Naboho, a farmer and community advocate in Burkina Faso, as its 2019 Farmer of the Year.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CToHWeRZiSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CToHWeRZiSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CToHWeRZiSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CToHWeRZiSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CToHWeRZiSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 114,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CToHWeRZiSQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "CToHWeRZiSQ",
+        "videoPublishedAt": "2019-12-17T17:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nPKxhHxeLgKG_6WMyUs_zxGLLSQ",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lkk2VVRBa0E0a1Vn",
+      "snippet": {
+        "publishedAt": "2019-12-17T15:32:09Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Alliance for Science: Ending world hunger",
+        "description": "Nigerian farmer Patience Koku tells why she supports the work of the Cornell Alliance for Science in ending world hunger.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6UTAkA4kUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6UTAkA4kUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6UTAkA4kUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6UTAkA4kUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I6UTAkA4kUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 115,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I6UTAkA4kUg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "I6UTAkA4kUg",
+        "videoPublishedAt": "2019-12-17T15:32:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ON76EXL9DXyBQpMyHYTuEoa2Pnc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlJCWGNxQ0lBdWMw",
+      "snippet": {
+        "publishedAt": "2019-11-18T05:22:51Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Cornell Alliance for Science Fellow Slyvia Tetteh",
+        "description": "2019 Cornell Alliance for Science Fellow Slyvia Tetteh speaking in Washington DC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBXcqCIAuc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBXcqCIAuc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBXcqCIAuc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBXcqCIAuc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBXcqCIAuc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 116,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RBXcqCIAuc0"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "RBXcqCIAuc0",
+        "videoPublishedAt": "2019-11-18T05:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ryx-5AshHK9dk7z0bn12YscQ7zc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmlUdFpiNVZIMWs4",
+      "snippet": {
+        "publishedAt": "2019-11-18T05:14:20Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Ghanian journalist Elizabeth Ohene at Cornell Alliance for Science event",
+        "description": "Former BBC journalist Elizabeth Ohene speaks at Cornell Alliance for Science event in Washington DC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTtZb5VH1k8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTtZb5VH1k8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTtZb5VH1k8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iTtZb5VH1k8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iTtZb5VH1k8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 117,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iTtZb5VH1k8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "iTtZb5VH1k8",
+        "videoPublishedAt": "2019-11-18T05:14:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "unwILE-BI05Oi00fuBGDU9l8oZE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlpxVzRBVEs2UUlF",
+      "snippet": {
+        "publishedAt": "2019-11-18T05:09:13Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Cornell Alliance for Science Fellow Ruramiso Mashumba",
+        "description": "2019 Cornell Alliance for Science Fellow Ruramiso Mashumba speaking in Washington DC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqW4ATK6QIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqW4ATK6QIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqW4ATK6QIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZqW4ATK6QIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZqW4ATK6QIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 118,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZqW4ATK6QIE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ZqW4ATK6QIE",
+        "videoPublishedAt": "2019-11-18T05:09:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2t0NkkfOG4wImVl5O7DggpI6ZGk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmhkdk5zakdRYi1n",
+      "snippet": {
+        "publishedAt": "2019-11-18T05:00:19Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Cornell Alliance for Science Fellow Germaine J. De Ruña",
+        "description": "2019 Cornell Alliance for Science Fellow Germaine J. De Ruña speaking in Washington DC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hdvNsjGQb-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hdvNsjGQb-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdvNsjGQb-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hdvNsjGQb-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hdvNsjGQb-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 119,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hdvNsjGQb-g"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "hdvNsjGQb-g",
+        "videoPublishedAt": "2019-11-18T05:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cimPtCQW-zeWvtk2sOBr1CQRKuY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lkw5VXBXckVDVndz",
+      "snippet": {
+        "publishedAt": "2019-11-06T16:25:36Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Controlling crop pests in Kenya with biotechnology",
+        "description": "Biotechnology can help control devastating crop pests, says Kenyan maize breeder Dr. Mwimali Murenga.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L9UpWrECVws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L9UpWrECVws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L9UpWrECVws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L9UpWrECVws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L9UpWrECVws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 120,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L9UpWrECVws"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "L9UpWrECVws",
+        "videoPublishedAt": "2019-11-06T16:25:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IBKsxYVasrm6zhJ-RFlEM_M4_II",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmNzTlVheG5XaTM4",
+      "snippet": {
+        "publishedAt": "2019-10-31T15:54:03Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Enhancing plants through gene editing",
+        "description": "Brazilian scientist Andre Hermann describes how gene editing tools like CRISPR work in plants.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/csNUaxnWi38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/csNUaxnWi38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/csNUaxnWi38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/csNUaxnWi38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/csNUaxnWi38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 121,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "csNUaxnWi38"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "csNUaxnWi38",
+        "videoPublishedAt": "2019-10-31T15:54:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i1lInj7lpvncSwzzqjWjFm3og60",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmFSSHQybmxiWHdr",
+      "snippet": {
+        "publishedAt": "2019-10-31T15:50:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Stop burning the Amazon!",
+        "description": "A Brazilian scientist tells how biotechnology can develop high-yielding crops that eliminate the need to burn the Amazon for new agricultural fields.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRHt2nlbXwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRHt2nlbXwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRHt2nlbXwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aRHt2nlbXwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aRHt2nlbXwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 122,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aRHt2nlbXwk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "aRHt2nlbXwk",
+        "videoPublishedAt": "2019-10-31T15:50:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FxAKg5NGb26Xv-nrkEw8VDHO8PA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm5MdUx6aFV4WnFj",
+      "snippet": {
+        "publishedAt": "2019-10-30T17:45:54Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "CRISPR in Latin America",
+        "description": "Scientist Sabrina Marecos shares the many ways that CRISPR can benefit Latin America and her native country of Paraguay.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLuLzhUxZqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLuLzhUxZqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLuLzhUxZqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nLuLzhUxZqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nLuLzhUxZqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 123,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nLuLzhUxZqc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "nLuLzhUxZqc",
+        "videoPublishedAt": "2019-10-30T17:45:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cSpjbwCu-vxSmH1Diq9dxMIAqYQ",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkZ4Tlg1c3dCZmx3",
+      "snippet": {
+        "publishedAt": "2019-10-30T13:17:33Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Golden Rice: Fighting Hidden Hunger",
+        "description": "The health of women and children can be improved by using genetic engineering to make staple foods more nutritious, like Golden Rice.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FxNX5swBflw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FxNX5swBflw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FxNX5swBflw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FxNX5swBflw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FxNX5swBflw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 124,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FxNX5swBflw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "FxNX5swBflw",
+        "videoPublishedAt": "2019-10-30T13:17:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XXNGlXmqpOZDj8BiY8rukTONRfw",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkhuTUZDMWp2T3VF",
+      "snippet": {
+        "publishedAt": "2019-10-10T12:45:19Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Making a GMO",
+        "description": "Pacifique Nshimiyimana, a 2019 Alliance for Science Fellow from Rwanda, shares his thoughts after working on a transgenic (GMO) crop in the lab.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HnMFC1jvOuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HnMFC1jvOuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HnMFC1jvOuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HnMFC1jvOuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HnMFC1jvOuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 125,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HnMFC1jvOuE"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "HnMFC1jvOuE",
+        "videoPublishedAt": "2019-10-10T12:45:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Cd9GgRQxpL7FLaKc9i1EGo6dF0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnI2ZWJkUFBkWlM0",
+      "snippet": {
+        "publishedAt": "2019-06-11T18:52:27Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks -  Don't speak for the African farmer!",
+        "description": "Dr.  Kingstone Mashingaidze gives anti-GMO groups a message.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r6ebdPPdZS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r6ebdPPdZS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r6ebdPPdZS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r6ebdPPdZS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r6ebdPPdZS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 126,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r6ebdPPdZS4"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "r6ebdPPdZS4",
+        "videoPublishedAt": "2019-06-11T18:52:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "03niUbFxDr3sDQt-zLVgMPCcfM0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lmd6Ri04UUhtX0hj",
+      "snippet": {
+        "publishedAt": "2019-06-11T18:14:48Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - Technology, not handouts",
+        "description": "African farmers want to grow their food, not get handouts, says Dr. Kingstone Mashingaidze.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzF-8QHm_Hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzF-8QHm_Hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzF-8QHm_Hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gzF-8QHm_Hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gzF-8QHm_Hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 127,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gzF-8QHm_Hc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "gzF-8QHm_Hc",
+        "videoPublishedAt": "2019-06-11T18:14:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b2zDhQHSdzb8OluH9iejPNRZorc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkhKTWxDNzVZNU1B",
+      "snippet": {
+        "publishedAt": "2019-06-11T18:12:32Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - \"The right to choose\"",
+        "description": "Dr. Kingstone Mashingaidze discusses why African farmers should be able to choose what they want to grow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJMlC75Y5MA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJMlC75Y5MA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJMlC75Y5MA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HJMlC75Y5MA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HJMlC75Y5MA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 128,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HJMlC75Y5MA"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "HJMlC75Y5MA",
+        "videoPublishedAt": "2019-06-11T18:12:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zuTG6o62tR4W5TMujE7sL7NwtjY",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjB5ZGRGdFNGNEs4",
+      "snippet": {
+        "publishedAt": "2019-06-11T18:10:30Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks — \"Improving quality of life for women and children\"",
+        "description": "Dr. Kingstone Mashingaidze on how freeing African women and children from long hours of weeding will improve quality of life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yddFtSF4K8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yddFtSF4K8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yddFtSF4K8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yddFtSF4K8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0yddFtSF4K8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 129,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0yddFtSF4K8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "0yddFtSF4K8",
+        "videoPublishedAt": "2019-06-11T18:10:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L1CbM6aU88zznst5pd0MMzc1KXA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnVqMDJoemNEdktN",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:43:52Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - \"Everyone is entitled to food\"",
+        "description": "Dr. Kingstone Mashingaidze describes how biotechnology is a human rights issue.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uj02hzcDvKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uj02hzcDvKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uj02hzcDvKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uj02hzcDvKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uj02hzcDvKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 130,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uj02hzcDvKM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "uj02hzcDvKM",
+        "videoPublishedAt": "2019-06-11T17:43:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dtpHJZftys8Fh7-TQf7zHiLfAG4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LktsOGtrcFBJb1dr",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:42:15Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - \"Biotechnology as a tool for food security\"",
+        "description": "Dr. Kingstone Mashingaidze describes the many beneficial roles that crop biotechnology can play in Africa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kl8kkpPIoWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kl8kkpPIoWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kl8kkpPIoWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kl8kkpPIoWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kl8kkpPIoWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 131,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kl8kkpPIoWk"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Kl8kkpPIoWk",
+        "videoPublishedAt": "2019-06-11T17:42:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ldjUsQ9BxcGKFnlqdyP41_XoAy4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmxXczNLVnczdk0w",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:38:45Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks: \"Let African farmers make the choice\"",
+        "description": "Dr.  Sylvester Oikeh, a Nigerian maize breeder, on how African farmers deserve the right to choose what technology they want to use.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWs3KVw3vM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWs3KVw3vM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWs3KVw3vM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lWs3KVw3vM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lWs3KVw3vM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 132,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lWs3KVw3vM0"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "lWs3KVw3vM0",
+        "videoPublishedAt": "2019-06-11T17:38:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hi_ihBY7OV3NevO4pydrQ2a4mAE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlN1Zk5FQ3JJU213",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:36:07Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - \"Crime against humanity\"",
+        "description": "Dr. Sylvester Oikeh, a Nigerian maize breeder, tells how depriving farmers of access to genetically modified crops is a crime against humanity.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SufNECrISmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SufNECrISmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SufNECrISmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SufNECrISmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SufNECrISmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SufNECrISmw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "SufNECrISmw",
+        "videoPublishedAt": "2019-06-11T17:36:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zBOAJfo1DG3SVEV030srnuCOatM",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmZ5WEJsdXkzZjNV",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:33:23Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - Seeing the technology in action",
+        "description": "Nigerian maize breeder Dr.Sylvester Oikeh discusses what drives him to improve crops through biotechnology.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fyXBluy3f3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fyXBluy3f3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyXBluy3f3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fyXBluy3f3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fyXBluy3f3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fyXBluy3f3U"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "fyXBluy3f3U",
+        "videoPublishedAt": "2019-06-11T17:33:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g0kQTHqwHTiMNrzQLOXKcEftkfU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LjdwSTBYc3RlczZj",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:30:55Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - The benefits of plant biotechnology",
+        "description": "Zimbabwe biosafety expert Rudo Mazarura talks about why she loves plant biotechnology.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7pI0Xstes6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7pI0Xstes6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7pI0Xstes6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7pI0Xstes6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7pI0Xstes6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7pI0Xstes6c"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "7pI0Xstes6c",
+        "videoPublishedAt": "2019-06-11T17:30:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RjoP7vZfjJKCUDcl22RrLbaeVKI",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Ljh6NEVOaW8wNlMw",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:26:39Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - Give consumers a choice",
+        "description": "Zimbabwe biosafety expert Rudo Mazarura on the value of giving consumers a choice.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8z4ENio06S0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8z4ENio06S0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8z4ENio06S0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8z4ENio06S0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8z4ENio06S0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 136,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8z4ENio06S0"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "8z4ENio06S0",
+        "videoPublishedAt": "2019-06-11T17:26:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hNbd--xACwpp9q_gGVAg9Ene6c4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm91UURpWG5ib3lj",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:23:48Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - Biotechnology as a tool for improving agriculture",
+        "description": "Zimbabwe biosafety expert Rudo Mazarura discusses the role that biotechnology can play in restoring her country's agricultural sector.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ouQDiXnboyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ouQDiXnboyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ouQDiXnboyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ouQDiXnboyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ouQDiXnboyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 137,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ouQDiXnboyc"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ouQDiXnboyc",
+        "videoPublishedAt": "2019-06-11T17:23:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m0P27C2RSzDRFutLNRCedLXYFV0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkhGTmdoLVhiYndn",
+      "snippet": {
+        "publishedAt": "2019-06-11T17:22:01Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - \"We need GMOs\"",
+        "description": "Zimbabwe biosafety expert Rudo Mazarura discusses the need for biotechnology to improve Africa's agriculture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFNgh-Xbbwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFNgh-Xbbwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFNgh-Xbbwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HFNgh-Xbbwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HFNgh-Xbbwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 138,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HFNgh-Xbbwg"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "HFNgh-Xbbwg",
+        "videoPublishedAt": "2019-06-11T17:22:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uvJDoEbi1fbY84HJM1VteuR01NQ",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3Lm16VHcxSVd3c1pN",
+      "snippet": {
+        "publishedAt": "2019-06-10T14:38:35Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "India farmers demand GMO seeds",
+        "description": "Farmers in India stage protest to demand access to GMO seeds, with some risking arrest by planting unauthorized seeds.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mzTw1IWwsZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mzTw1IWwsZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mzTw1IWwsZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mzTw1IWwsZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 139,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mzTw1IWwsZM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "mzTw1IWwsZM",
+        "videoPublishedAt": "2019-06-10T14:38:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y5Tv47ZY10VmSAGRaYdPixa_pqA",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkcxRXVtWW5fVXh3",
+      "snippet": {
+        "publishedAt": "2019-06-04T15:49:56Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Pablo Orozco",
+        "description": "The role of science in crop biotech regulation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1EumYn_Uxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1EumYn_Uxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1EumYn_Uxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1EumYn_Uxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1EumYn_Uxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 140,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G1EumYn_Uxw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "G1EumYn_Uxw",
+        "videoPublishedAt": "2019-06-04T15:49:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W9NG-4QU1YPPnUGr1cfCc8zOpQI",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlVQWW1RMmlYdjNn",
+      "snippet": {
+        "publishedAt": "2019-05-23T15:58:18Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Empowering Africa through biotechnology",
+        "description": "Rudo Mazarura, a biosafety expert in Zimbabwe, discusses the role agricultural biotechnology can play in empowering Africa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UPYmQ2iXv3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UPYmQ2iXv3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UPYmQ2iXv3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UPYmQ2iXv3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UPYmQ2iXv3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 141,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UPYmQ2iXv3g"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "UPYmQ2iXv3g",
+        "videoPublishedAt": "2019-05-23T15:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMlzrdGX-SqLeKH2JpNwco31rGU",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmcyeDFyMlZsenN3",
+      "snippet": {
+        "publishedAt": "2019-05-22T20:14:49Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa is turning toward GMOs",
+        "description": "Rudo Mazarura, a Zimbabwe biosafety expert, discusses how field trials of GMO crops represent a positive trend for Africa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g2x1r2Vlzsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g2x1r2Vlzsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g2x1r2Vlzsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g2x1r2Vlzsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g2x1r2Vlzsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 142,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g2x1r2Vlzsw"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "g2x1r2Vlzsw",
+        "videoPublishedAt": "2019-05-22T20:14:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qrAlI5iB9jmo1cXQGYwM6efG1rk",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmZwaEdhVHBUcHhN",
+      "snippet": {
+        "publishedAt": "2019-05-20T19:25:21Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Africa Speaks - Dr. Stephen Mugo",
+        "description": "Dr. Stephen Mugo, a maize breeder in Africa, has a message for anti-GMO activists.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fphGaTpTpxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fphGaTpTpxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fphGaTpTpxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fphGaTpTpxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fphGaTpTpxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 143,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fphGaTpTpxM"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "fphGaTpTpxM",
+        "videoPublishedAt": "2019-05-20T19:25:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NR4XkpvIq2YOS8nW-Syw4d89SLE",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LkVOVnRJOUxqVUFR",
+      "snippet": {
+        "publishedAt": "2019-05-05T13:28:09Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nigeria marches to mainstream science",
+        "description": "Nigerian scientists, farmers, educators and others join together for a science \"hangout\" event to mark the 2019 March for Science.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENVtI9LjUAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENVtI9LjUAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENVtI9LjUAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ENVtI9LjUAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ENVtI9LjUAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 144,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ENVtI9LjUAQ"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "ENVtI9LjUAQ",
+        "videoPublishedAt": "2019-05-05T13:28:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pz9B6r93hmrztyDiQSbyXRWEFMs",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmdvRkpvcGFLTjJV",
+      "snippet": {
+        "publishedAt": "2019-05-02T13:36:20Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Global Leadership Fellow Pablo Orozco",
+        "description": "Guatemalan attorney Pablo Orozco on his experience as a Cornell Alliance for Science Global Leadership Fellow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/goFJopaKN2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/goFJopaKN2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/goFJopaKN2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/goFJopaKN2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/goFJopaKN2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 145,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "goFJopaKN2U"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "goFJopaKN2U",
+        "videoPublishedAt": "2019-05-02T13:36:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1PTidmRsDc1nQXRq0lrNNHdsSI0",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlB3NnROb3l5TnhZ",
+      "snippet": {
+        "publishedAt": "2019-04-30T08:56:28Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Arif Hossain: Global Leadership Fellow",
+        "description": "Arif Hossain, executive director of Farming Future Bangladesh and a 2015 Alliance for Science Global Leadership Fellow, on how biotechnology helps farmers. #fundafellow #scienceally",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pw6tNoyyNxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pw6tNoyyNxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pw6tNoyyNxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pw6tNoyyNxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pw6tNoyyNxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 146,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pw6tNoyyNxY"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Pw6tNoyyNxY",
+        "videoPublishedAt": "2019-04-30T08:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1XRv0E9JPvS1hy6BeutmtJIUQw4",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LnBxLUFhMnNyeDMw",
+      "snippet": {
+        "publishedAt": "2019-04-26T11:20:08Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Katherine Chaweza: Global Leadership Fellow",
+        "description": "Katherine Chaweza of Malawi, a 2016 Global Leadership Fellow, shares her experience with the program and how it has helped her to effectively communicate science. #fundafellow #scienceally",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pq-Aa2srx30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pq-Aa2srx30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pq-Aa2srx30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pq-Aa2srx30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pq-Aa2srx30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 147,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pq-Aa2srx30"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "pq-Aa2srx30",
+        "videoPublishedAt": "2019-04-26T11:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MtEkodzrJaJ-ShqOUCMsRN_Ystc",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LmVfZEotVUtvcFk4",
+      "snippet": {
+        "publishedAt": "2019-04-26T11:12:53Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Pablo Orozco: Global Leadership Fellow",
+        "description": "2016 Global Leadership Fellow Pablo Orozco of Guatemala on what makes the program so unique. #fundafellow #scienceally",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_dJ-UKopY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_dJ-UKopY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_dJ-UKopY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e_dJ-UKopY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e_dJ-UKopY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 148,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e_dJ-UKopY8"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "e_dJ-UKopY8",
+        "videoPublishedAt": "2019-04-26T11:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N5B14iaxLCvUsJ4v3EbmFqTwIGg",
+      "id": "VVVqWU05X1I2TkVhU3ZFc1FCQnZ0T0Z3LlhtNHFUVzlzYlBV",
+      "snippet": {
+        "publishedAt": "2019-04-05T14:42:11Z",
+        "channelId": "UCjYM9_R6NEaSvEsQBBvtOFw",
+        "title": "Nigerians' views on GMOs",
+        "description": "Abdullahi Tsanni, a Nigerian scientist and freelance journalist, explores the attitudes of Nigerians toward GMOs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xm4qTW9sbPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xm4qTW9sbPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xm4qTW9sbPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xm4qTW9sbPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alliance for Science",
+        "playlistId": "UUjYM9_R6NEaSvEsQBBvtOFw",
+        "position": 149,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xm4qTW9sbPU"
+        },
+        "videoOwnerChannelTitle": "Alliance for Science",
+        "videoOwnerChannelId": "UCjYM9_R6NEaSvEsQBBvtOFw"
+      },
+      "contentDetails": {
+        "videoId": "Xm4qTW9sbPU",
+        "videoPublishedAt": "2019-04-05T14:42:11Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 251,
+    "resultsPerPage": 50
+  }
+}
